@@ -1,0 +1,28 @@
+{
+  "name": "opportunities",
+  "version": "1.0.0",
+  "description": "Collection of companies that are hiring in the Philadelphia Area.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "merge": "node ./mergeCompanies.js counties.geojson ./companies",
+    "format": "node ./formatOpportunities.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcelaney/opportunities.git"
+  },
+  "keywords": [
+    "jobs",
+    "json"
+  ],
+  "author": "Brian McElaney",
+  "contributors": [
+    { "name": "Michael Flynn" }
+  ],
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/mcelaney/opportunities/issues"
+  },
+  "homepage": "https://github.com/mcelaney/opportunities#readme"
+}

@@ -1,20 +1,20 @@
 {
-    "company": "CLVmetrics",
-    "url": "http://jobs.lever.co/clvmetrics",
-    "address": "4040 Locust St, Philadelphia, PA",
-    "geo": {
-        "latitude": "39.953097",
-        "longitude": "-75.204864"
+  "company": "CLVmetrics",
+  "url": "http://jobs.lever.co/clvmetrics",
+  "address": "4040 Locust St, Philadelphia, PA",
+  "geo": {
+    "latitude": "39.953097",
+    "longitude": "-75.204864"
+  },
+  "positions": [
+    {
+      "title": "Backend Engineer"
     },
-    "positions": [
-        {
-            "title": "Backend Engineer"
-        },
-        {
-            "title": "Frontend Engineer"
-        },
-        {
-            "title": "Full Stack Engineer"
-        }
-    ]
+    {
+      "title": "Frontend Engineer"
+    },
+    {
+      "title": "Full Stack Engineer"
+    }
+  ]
 }

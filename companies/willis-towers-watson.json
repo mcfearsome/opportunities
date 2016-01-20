@@ -1,0 +1,14 @@
+{
+  "company": "Willis Towers Watson",
+  "url": "http://www.jobs.net/jobs/willis-towers-watson/en-us/search/United-States/location/Pennsylvania/Philadelphia/",
+  "address": "1500 Market St #22E, Philadelphia, PA 19102",
+  "geo": {
+    "latitude": 39.9377613,
+    "longitude": -75.1771446
+  },
+  "positions": [
+    {
+      "title": "Software Developer (.NET)"
+    }
+  ]
+}

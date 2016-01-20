@@ -1,10 +1,10 @@
 {
   "company": "Think Brownstone",
   "url": "https://www.thinkbrownstone.com/careers/",
-  "address": "201 Fayette St, Conshohocken, PA 19428",
+  "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
   "geo": {
-    "latitude": 40.074711,
-    "longitude": -75.305449
+    "latitude": 39.950745,
+    "longitude": -75.165716
   },
   "positions": [
     {

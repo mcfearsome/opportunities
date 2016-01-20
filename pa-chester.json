@@ -223,6 +223,20 @@
     ]
   },
   {
+    "company": "Scala",
+    "url": "http://join.scala.com/careers/",
+    "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
+    "geo": {
+      "latitude": 40.0632385406,
+      "longitude": -75.5384306945
+    },
+    "positions": [
+      {
+        "title": "Programmer"
+      }
+    ]
+  },
+  {
     "company": "Zonoff",
     "url": "https://zonoff.com/our-story/careers/",
     "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",

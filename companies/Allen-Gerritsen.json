@@ -1,10 +1,10 @@
 {
   "company": "Allen & Gerritsen",
   "url": "http://www.a-g.com/careers/",
-  "address": "619 Walnut St, Philadelphia, PA 19128",
+  "address": "1619 Walnut St. Philadelphia, PA 19103",
   "geo": {
-    "latitude": 39.9461686667,
-    "longitude": -75.15197
+    "latitude": 39.9499277431,
+    "longitude": -75.1677158144
   },
   "positions": [
     {

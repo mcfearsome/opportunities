@@ -1,0 +1,19 @@
+{
+  "company": "Night Kitchen Interactive",
+  "url": "http://www.whatscookin.com/about/careers",
+  "address": "411 South 2nd Street, Suite 200, Philadelphia, PA 19147",
+  "geo": {
+    "latitude": 39.942945848,
+    "longitude": -75.1449762344
+  },
+  "positions": [
+    {
+      "title": "Creative Lead",
+      "datePosted": "2015-07-28"
+    },
+    {
+      "title": "Interactive Web Developer",
+      "datePosted": "2015-07-28"
+    }
+  ]
+}

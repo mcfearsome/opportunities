@@ -18,6 +18,7 @@
       "@context": "http://schema.org",
       "@type": "JobPosting",
       "title": "Web Developer",
+      "datePosted": "2016-01-01",
       "occupationalCategory": "15-1134.00 Web Developers",
       "responsibilities": "Design, create, and modify Web sites. Analyze user needs to implement Web site content, graphics, performance, and capacity. May integrate Web sites with other computer applications. May convert written, graphic, audio, and video components to compatible Web formats by using software designed to facilitate the creation of Web and multimedia content.",
       "skills": "HTML5, CSS3, JavaScript, Git",

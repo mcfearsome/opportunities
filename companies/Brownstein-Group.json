@@ -1,0 +1,14 @@
+{
+  "company": "Brownstein Group",
+  "url": "http://www.brownsteingroup.com/careers/",
+  "address": "215 South Broad Street, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.9485219589,
+    "longitude": -75.1646539375
+  },
+  "positions": [
+    {
+      "title": "Production Artist"
+    }
+  ]
+}

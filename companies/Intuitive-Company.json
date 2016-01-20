@@ -1,10 +1,10 @@
 {
   "company": "Intuitive Company",
   "url": "http://intuitivecompany.com/careers/",
-  "address": "3 Rector Street, Philadelphia PA, 19127",
+  "address": "3 Rector St #2, Philadelphia, PA 19127",
   "geo": {
-    "latitude": 40.0241577959,
-    "longitude": -75.2220595102
+    "latitude": 40.0240484551,
+    "longitude": -75.22196085
   },
   "positions": [
     {

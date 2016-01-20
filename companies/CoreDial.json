@@ -1,68 +1,68 @@
-  {
-    "company": "CoreDial",
-    "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
-    "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
-    "geo": {
-      "latitude": 40.140902,
-      "longitude": -75.285697
+{
+  "company": "CoreDial",
+  "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
+  "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
+  "geo": {
+    "latitude": 40.140902,
+    "longitude": -75.285697
+  },
+  "positions": [
+    {
+      "title": "Lead Generation Assistant (LGA)"
     },
-    "positions": [
-      {
-        "title": "Lead Generation Assistant (LGA)"
-      },
-      {
-        "title": "VoIP Support Technician Level II"
-      },
-      {
-        "title": "VoIP Support Technician - Level I"
-      },
-      {
-        "title": "UI/UX Designer"
-      },
-      {
-        "title": "SQL DBA - MySQL"
-      },
-      {
-        "title": "Product Owner"
-      },
-      {
-        "title": "Financial Analyst – FP&A Analyst"
-      },
-      {
-        "title": "Customer Support Coordinator"
-      },
-      {
-        "title": "Business Analyst"
-      },
-      {
-        "title": "Applications Support Lead"
-      },
-      {
-        "title": "Applications Support Engineer"
-      },
-      {
-        "title": "Principal Engineer"
-      },
-      {
-        "title": "Business Development Associate"
-      },
-      {
-        "title": "Data Architect"
-      },
-      {
-        "title": "Associate Software Developer"
-      },
-      {
-        "title": "Sr. Software Developer"
-      },
-      {
-        "title": "Principle Software Engineer"
-      },
-      {
-        "title": "Systems Architect"
-      },
-      {
-        "title": "Software Developer"
-      }
-    ]
-  }
+    {
+      "title": "VoIP Support Technician Level II"
+    },
+    {
+      "title": "VoIP Support Technician - Level I"
+    },
+    {
+      "title": "UI/UX Designer"
+    },
+    {
+      "title": "SQL DBA - MySQL"
+    },
+    {
+      "title": "Product Owner"
+    },
+    {
+      "title": "Financial Analyst – FP&A Analyst"
+    },
+    {
+      "title": "Customer Support Coordinator"
+    },
+    {
+      "title": "Business Analyst"
+    },
+    {
+      "title": "Applications Support Lead"
+    },
+    {
+      "title": "Applications Support Engineer"
+    },
+    {
+      "title": "Principal Engineer"
+    },
+    {
+      "title": "Business Development Associate"
+    },
+    {
+      "title": "Data Architect"
+    },
+    {
+      "title": "Associate Software Developer"
+    },
+    {
+      "title": "Sr. Software Developer"
+    },
+    {
+      "title": "Principle Software Engineer"
+    },
+    {
+      "title": "Systems Architect"
+    },
+    {
+      "title": "Software Developer"
+    }
+  ]
+}

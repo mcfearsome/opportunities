@@ -2,9 +2,9 @@
   {
     "company": "160over90",
     "url": "http://www.160over90.com/careers/",
-    "address": "1 S. Broad St., 10th Floor, Philadelphia, PA 19107",
+    "address": "1 South Broad Street, 10th Floor, Philadelphia, PA 19107",
     "geo": {
-      "latitude": 39.951591,
+      "latitude": 39.951741,
       "longitude": -75.163514
     },
     "positions": [
@@ -79,10 +79,10 @@
   {
     "company": "Allen & Gerritsen",
     "url": "http://www.a-g.com/careers/",
-    "address": "619 Walnut St, Philadelphia, PA 19128",
+    "address": "1619 Walnut St. Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.9461686667,
-      "longitude": -75.15197
+      "latitude": 39.9499277431,
+      "longitude": -75.1677158144
     },
     "positions": [
       {
@@ -123,12 +123,12 @@
     ]
   },
   {
-    "company": "Arcweb",
+    "company": "Arcweb Technologies",
     "url": "https://arcweb.co/careers/",
-    "address": "234 Market St, Philadelphia, PA 19106",
+    "address": "234 Market Street, 5th Floor, Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.950092,
-      "longitude": -75.1449277143
+      "latitude": 39.9499438006,
+      "longitude": -75.1449411502
     },
     "positions": [
       {
@@ -215,10 +215,10 @@
   {
     "company": "Bluecadet",
     "url": "http://www.bluecadet.com/contact/careers/",
-    "address": "1011 N Hancock st, Philadelphia PA 19123",
+    "address": "1526 Frankford Ave, Philadelphia, PA 19125",
     "geo": {
-      "latitude": 39.965753,
-      "longitude": -75.1392843333
+      "latitude": 39.9735053244,
+      "longitude": -75.1338803439
     },
     "positions": [
       {
@@ -270,6 +270,20 @@
       "longitude": -75.1502415238
     },
     "positions": []
+  },
+  {
+    "company": "Brownstein Group",
+    "url": "http://www.brownsteingroup.com/careers/",
+    "address": "215 South Broad Street, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.9485219589,
+      "longitude": -75.1646539375
+    },
+    "positions": [
+      {
+        "title": "Production Artist"
+      }
+    ]
   },
   {
     "company": "BuLogics",
@@ -385,13 +399,12 @@
       }
     ]
   },
-
   {
     "company": "Curalate",
     "url": "https://boards.greenhouse.io/curalate#.VkAHsa6rRE5",
     "address": "2401 Walnut St #502, Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.95124,
+      "latitude": 39.95109,
       "longitude": -75.179508
     },
     "positions": [
@@ -604,6 +617,25 @@
     ]
   },
   {
+    "company": "Happy Cog",
+    "url": "http://www.happycog.com/",
+    "address": "1315 Walnut St, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.949591,
+      "longitude": -75.16289
+    },
+    "positions": [
+      {
+        "title": "Designer",
+        "datePosted": "2016-01-05"
+      },
+      {
+        "title": "Senior Designer",
+        "datePosted": "2016-01-05"
+      }
+    ]
+  },
+  {
     "company": "Here's My Chance",
     "url": "http://heresmychance.com/careers/",
     "address": "121 S. 13th Street 4th Floor Philadelphia, PA 19107",
@@ -675,10 +707,10 @@
   {
     "company": "Intuitive Company",
     "url": "http://intuitivecompany.com/careers/",
-    "address": "3 Rector Street, Philadelphia PA, 19127",
+    "address": "3 Rector St #2, Philadelphia, PA 19127",
     "geo": {
-      "latitude": 40.0241577959,
-      "longitude": -75.2220595102
+      "latitude": 40.0240484551,
+      "longitude": -75.22196085
     },
     "positions": [
       {
@@ -904,6 +936,25 @@
     ]
   },
   {
+    "company": "Night Kitchen Interactive",
+    "url": "http://www.whatscookin.com/about/careers",
+    "address": "411 South 2nd Street, Suite 200, Philadelphia, PA 19147",
+    "geo": {
+      "latitude": 39.942945848,
+      "longitude": -75.1449762344
+    },
+    "positions": [
+      {
+        "title": "Creative Lead",
+        "datePosted": "2015-07-28"
+      },
+      {
+        "title": "Interactive Web Developer",
+        "datePosted": "2015-07-28"
+      }
+    ]
+  },
+  {
     "company": "Nimblelight",
     "url": "http://nimblelight.com/jobs/",
     "address": "4355 Orchard St, Philadelphia PA, 19124",
@@ -920,10 +971,10 @@
   {
     "company": "O3 World",
     "url": "http://o3world.com/careers/",
-    "address": "1000 N. Hancock St. Suite 103 Philadelphia PA, 19123",
+    "address": "1339 Frankford Avenue, Suite 3, Philadelphia, PA 19125",
     "geo": {
-      "latitude": 39.9652262979,
-      "longitude": -75.1398402553
+      "latitude": 39.9712247406,
+      "longitude": -75.1342654346
     },
     "positions": [
       {
@@ -1167,6 +1218,23 @@
     ]
   },
   {
+    "company": "RTO+P",
+    "url": "http://www.rtop.com/",
+    "address": "1 South Broad Street, 24th Floor, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.951741,
+      "longitude": -75.163514
+    },
+    "positions": [
+      {
+        "title": "RT DIRECTOR"
+      },
+      {
+        "title": "APP DEVELOPER"
+      }
+    ]
+  },
+  {
     "company": "SEER Interactive",
     "url": "http://www.seerinteractive.com/careers/",
     "address": "1033 N 2nd Street, Philadelphia, PA",
@@ -1276,6 +1344,20 @@
     "positions": []
   },
   {
+    "company": "Stuzo",
+    "url": "http://www.stuzo.com/careers/",
+    "address": "211 North 13th Street, Suite 802, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.956513,
+      "longitude": -75.160248
+    },
+    "positions": [
+      {
+        "title": "Technical Project Manager"
+      }
+    ]
+  },
+  {
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "address": "4040 Locust Street, Philadelphia, Pa.",
@@ -1294,6 +1376,26 @@
       "longitude": -75.161868
     },
     "positions": []
+  },
+  {
+    "company": "Think Brownstone",
+    "url": "https://www.thinkbrownstone.com/careers/",
+    "address": "111 South 15th Street, Mezzanine, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.950745,
+      "longitude": -75.165716
+    },
+    "positions": [
+      {
+        "title": "UX & Visual Design Contractors"
+      },
+      {
+        "title": "Vice President of Client Engagement"
+      },
+      {
+        "title": "Experience Designer- Contractor"
+      }
+    ]
   },
   {
     "company": "Thomson Reuters",
@@ -1320,7 +1422,7 @@
     "url": "https://thoughtbot.com/jobs",
     "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
     "geo": {
-      "latitude": 39.95124,
+      "latitude": 39.95109,
       "longitude": -75.179508
     },
     "positions": [
@@ -1330,7 +1432,7 @@
     ]
   },
   {
-    "company": "TicketLeap",
+    "company": "Ticketleap",
     "url": "http://ticketleap.theresumator.com/",
     "address": "2401 Walnut Street, Suite 502, Philadelphia, PA 19103",
     "geo": {
