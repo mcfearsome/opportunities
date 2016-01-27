@@ -4,8 +4,8 @@
   "webSiteUrl": "http://www.philly.com/",
   "address": "801 Market Street, Suite 300, Philadelphia PA 19107",
   "geo": {
-    "latitude": 39.9516670,
-    "longitude": -75.1537370
+    "latitude": 39.951667,
+    "longitude": -75.153737
   },
   "positions": [
     {

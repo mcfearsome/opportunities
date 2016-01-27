@@ -1,0 +1,65 @@
+var fs = require('fs');
+
+var pathName = process.argv[2];
+
+if (pathName) {
+  if (fs.lstatSync(pathName).isDirectory()) {
+    formatAll(pathName);
+  } else {
+    formatFile(pathName)
+  }
+} else {
+  function getFileName(path) {
+    return path.substring(path.lastIndexOf('/') + 1, path.length);
+  }
+
+  var node = getFileName(process.argv[0]);
+  var script = getFileName(process.argv[1]);
+
+  console.log("Usage: " + node + " " + script + " <filename or directory>");
+}
+
+function formatAll(dirName) {
+  fs.readdir(dirName, processCompanies);
+
+  function processCompanies(err, files) {
+    if (err) {
+      console.log(err);
+      return;
+    }
+
+    files = files.filter(isJsonFile);
+    files = files.map(addPath);
+    files.forEach(formatFile);
+  }
+
+  function addPath(fileName) {
+    return dirName + '/' + fileName;
+  }
+}
+
+function formatFile(fileName) {
+  try {
+    var text = fs.readFileSync(fileName, "utf8");
+    var opportunties = JSON.parse(text);
+  } catch (e) {
+    console.log("ERROR: " + e.message);
+    process.exit(1);
+  }
+
+  try {
+    var out = fs.createWriteStream(fileName, {
+      encoding: "utf8"
+    });
+    out.write(JSON.stringify(opportunties, null, 2));
+    out.end();
+  } catch (e) {
+    console.log("ERROR: Couldn't write content out to: " + fileName + "");
+    console.log("ERROR: " + e.message);
+    process.exit(1);
+  }
+}
+
+function isJsonFile(file) {
+  return file.endsWith('.json');
+}

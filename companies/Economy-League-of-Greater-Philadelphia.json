@@ -6,5 +6,9 @@
     "latitude": 39.94878,
     "longitude": -75.1644585
   },
-  "positions": [{ "title": "PROJECT MANAGER" }]
+  "positions": [
+    {
+      "title": "PROJECT MANAGER"
+    }
+  ]
 }

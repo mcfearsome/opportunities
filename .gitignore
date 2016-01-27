@@ -5,4 +5,4 @@ tmp
 typings
 *.swp
 *.swo
-npm-debug.log 
+npm-debug.log*

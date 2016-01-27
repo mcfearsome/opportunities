@@ -81,18 +81,10 @@ if (fileName && dirName) {
       }
 
       if (insideCounty.length > 0) {
-        var newFileName;
-        if (county.properties.COUNTY_NAM) {
-          console.log(county.properties.COUNTY_NAM.toLowerCase());
-          newFileName = "pa-" + county.properties.COUNTY_NAM.toLowerCase() + ".json";
-        } else {
-          console.log(county.properties.Co_Name.toLowerCase());
-          newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
-        }
-        console.log(countyLimits.length + " - " + insideCounty.length);
-
+        var newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
         writeCompanyMerge(newFileName, insideCounty);
       }
+      console.log(county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + "\t" + insideCounty.length);
     }
 
   }
@@ -101,7 +93,7 @@ if (fileName && dirName) {
     return file.endsWith('.json');
   }
 
-  function caseInsensitiveSort (a, b) {
+  function caseInsensitiveSort(a, b) {
     if (a.toLowerCase() < b.toLowerCase()) return -1;
     if (a.toLowerCase() > b.toLowerCase()) return 1;
     return 0;

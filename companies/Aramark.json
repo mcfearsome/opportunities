@@ -7,8 +7,14 @@
     "longitude": -75.203371
   },
   "positions": [
-    { "title": "Associate Vice President, Security & Compliance" },
-    { "title": "Manager, Windows Engineering/Implementations" },
-    { "title": "Sr. Technical Consultant/Data Architect" }
+    {
+      "title": "Associate Vice President, Security & Compliance"
+    },
+    {
+      "title": "Manager, Windows Engineering/Implementations"
+    },
+    {
+      "title": "Sr. Technical Consultant/Data Architect"
+    }
   ]
 }
