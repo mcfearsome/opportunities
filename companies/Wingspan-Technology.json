@@ -6,5 +6,15 @@
     "latitude": 40.133626,
     "longitude": -75.255467
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "Software Engineer"
+    },
+    {
+      "title": "Project Manager"
+    },
+    {
+      "title": "DevOps Engineer"
+    }
+  ]
 }

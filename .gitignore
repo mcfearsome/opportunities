@@ -5,4 +5,4 @@ tmp
 typings
 *.swp
 *.swo
-companies/discovery
+npm-debug.log 

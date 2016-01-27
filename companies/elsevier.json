@@ -1,0 +1,41 @@
+{
+  "company": "Elsevier",
+  "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+  "address": "1600 John F Kennedy Blvd #1800, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.9537238,
+    "longitude": -75.1671666
+  },
+  "positions": [
+    {
+      "title": "Commercial Director, Patient Engagement"
+    },
+    {
+      "title": "Director, Cloud/Hosting, Infrastructure & Operations"
+    },
+    {
+      "title": "Operations Director (End User Infrastructure)"
+    },
+    {
+      "title": "Product Manager, Assessment"
+    },
+    {
+      "title": "Quality Engineering Lead"
+    },
+    {
+      "title": "Senior Custom Content Specialist"
+    },
+    {
+      "title": "Software Engineer"
+    },
+    {
+      "title": "Software Engineer - Machine Learning"
+    },
+    {
+      "title": "User Experience Lead"
+    },
+    {
+      "title": "VP Infrastructure & Operations"
+    }
+  ]
+}

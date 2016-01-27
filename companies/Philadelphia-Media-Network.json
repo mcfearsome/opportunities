@@ -1,0 +1,51 @@
+{
+  "company": "Philadelphia Media Network",
+  "url": "http://apsweb.philly.com/jobs/",
+  "webSiteUrl": "http://www.philly.com/",
+  "address": "801 Market Street, Suite 300, Philadelphia PA 19107",
+  "geo": {
+    "latitude": 39.9516670,
+    "longitude": -75.1537370
+  },
+  "positions": [
+    {
+      "title": "Sales Planning Analyst"
+    },
+    {
+      "title": "Outside Local Sales Representatives"
+    },
+    {
+      "title": "Digital Advertising Sales Manager"
+    },
+    {
+      "title": "Production Coordinator"
+    },
+    {
+      "title": "Digital Audience Analyst"
+    },
+    {
+      "title": "Product Associate"
+    },
+    {
+      "title": "Co-Op Account Executive"
+    },
+    {
+      "title": "Graphic Designer"
+    },
+    {
+      "title": "Interactive Graphic Designer"
+    },
+    {
+      "title": "Digital Reporting and Yield Specialist"
+    },
+    {
+      "title": "Digital Campaign Manager"
+    },
+    {
+      "title": "CRM Database Manager"
+    },
+    {
+      "title": "Senior Market Research Analyst (Digital)"
+    }
+  ]
+}

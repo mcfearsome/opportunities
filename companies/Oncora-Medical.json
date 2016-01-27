@@ -1,0 +1,24 @@
+{
+  "company": "Oncora Medical",
+  "url": "https://oncoramedical.recruiterbox.com/",
+  "webSiteUrl": "http://oncoramedical.com/",
+  "address": "4040 Locust St, Philadelphia, PA 19104",
+  "geo": {
+    "latitude": 39.9528830,
+    "longitude": -75.2047890
+  },
+  "positions": [
+    {
+      "title": "Data Engineer"
+    },
+    {
+      "title": "Cloud Ops Engineer"
+    },
+    {
+      "title": "Data Scientist"
+    },
+    {
+      "title": "UX and Data Visualization Developer"
+    }
+  ]
+}

@@ -656,6 +656,21 @@
     ]
   },
   {
+    "company": "Copycat Tech, Inc",
+    "url": "http://careers.stackoverflow.com/jobs?company=Copycat",
+    "webSiteUrl": "http://www.wecopycat.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 39.952584,
+      "longitude": -75.165222
+    },
+    "positions": [
+      {
+        "title": "iOS Engineer"
+      }
+    ]
+  },
+  {
     "company": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
     "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
@@ -918,6 +933,47 @@
     ]
   },
   {
+    "company": "Elsevier",
+    "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+    "address": "1600 John F Kennedy Blvd #1800, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.9537238,
+      "longitude": -75.1671666
+    },
+    "positions": [
+      {
+        "title": "Commercial Director, Patient Engagement"
+      },
+      {
+        "title": "Director, Cloud/Hosting, Infrastructure & Operations"
+      },
+      {
+        "title": "Operations Director (End User Infrastructure)"
+      },
+      {
+        "title": "Product Manager, Assessment"
+      },
+      {
+        "title": "Quality Engineering Lead"
+      },
+      {
+        "title": "Senior Custom Content Specialist"
+      },
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Software Engineer - Machine Learning"
+      },
+      {
+        "title": "User Experience Lead"
+      },
+      {
+        "title": "VP Infrastructure & Operations"
+      }
+    ]
+  },
+  {
     "company": "eMoney Advisor",
     "url": "http://emoneyadvisor.theresumator.com/apply",
     "address": "1001 E Hector St, Conshohocken, PA 19428",
@@ -1133,6 +1189,16 @@
     ]
   },
   {
+    "company": "Guru",
+    "url": "https://www.getguru.com/jobs/",
+    "address": "32 S Strawberry Street, 3rd Floor, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.9490966709,
+      "longitude": -75.1446795469
+    },
+    "positions": []
+  },
+  {
     "company": "Happy Cog",
     "url": "http://www.happycog.com/",
     "address": "1315 Walnut St, Philadelphia, PA 19107",
@@ -1310,6 +1376,16 @@
         "title": "Sr Android Developer"
       }
     ]
+  },
+  {
+    "company": "M",
+    "url": "http://agency-m.com/careers",
+    "address": "217 Church Street, Philadelphia, PA 19106",
+    "geo": {
+      "latitude": 39.9507636529,
+      "longitude": -75.1444120428
+    },
+    "positions": []
   },
   {
     "company": "Medecision",
@@ -1685,6 +1761,30 @@
     ]
   },
   {
+    "company": "Oncora Medical",
+    "url": "https://oncoramedical.recruiterbox.com/",
+    "webSiteUrl": "http://oncoramedical.com/",
+    "address": "4040 Locust St, Philadelphia, PA 19104",
+    "geo": {
+      "latitude": 39.952883,
+      "longitude": -75.204789
+    },
+    "positions": [
+      {
+        "title": "Data Engineer"
+      },
+      {
+        "title": "Cloud Ops Engineer"
+      },
+      {
+        "title": "Data Scientist"
+      },
+      {
+        "title": "UX and Data Visualization Developer"
+      }
+    ]
+  },
+  {
     "company": "PCS Trac",
     "url": "http://www.pcstrac.com/#!careers/cuev",
     "address": "4250 Wissahickon Ave, Philadelphia, PA 19129",
@@ -1743,6 +1843,57 @@
     ]
   },
   {
+    "company": "Philadelphia Media Network",
+    "url": "http://apsweb.philly.com/jobs/",
+    "webSiteUrl": "http://www.philly.com/",
+    "address": "801 Market Street, Suite 300, Philadelphia PA 19107",
+    "geo": {
+      "latitude": 39.951667,
+      "longitude": -75.153737
+    },
+    "positions": [
+      {
+        "title": "Sales Planning Analyst"
+      },
+      {
+        "title": "Outside Local Sales Representatives"
+      },
+      {
+        "title": "Digital Advertising Sales Manager"
+      },
+      {
+        "title": "Production Coordinator"
+      },
+      {
+        "title": "Digital Audience Analyst"
+      },
+      {
+        "title": "Product Associate"
+      },
+      {
+        "title": "Co-Op Account Executive"
+      },
+      {
+        "title": "Graphic Designer"
+      },
+      {
+        "title": "Interactive Graphic Designer"
+      },
+      {
+        "title": "Digital Reporting and Yield Specialist"
+      },
+      {
+        "title": "Digital Campaign Manager"
+      },
+      {
+        "title": "CRM Database Manager"
+      },
+      {
+        "title": "Senior Market Research Analyst (Digital)"
+      }
+    ]
+  },
+  {
     "company": "Philly Marketing Labs",
     "url": "http://www.phillymarketinglabs.com/join-our-team/",
     "address": "224 Lansdowne Ave, Wayne, PA 19087",
@@ -1759,6 +1910,27 @@
       },
       {
         "title": "Paid Search Manager"
+      }
+    ]
+  },
+  {
+    "company": "Picwell Inc",
+    "url": "http://nerds.picwell.com/jobs/",
+    "webSiteUrl": "http://picwell.com/",
+    "address": "2200 Arch Street, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.955875,
+      "longitude": -75.176907
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Data Engineer"
+      },
+      {
+        "title": "Data Scientist (Production)"
       }
     ]
   },
@@ -2514,6 +2686,20 @@
     ]
   },
   {
+    "company": "Willis Towers Watson",
+    "url": "http://www.jobs.net/jobs/willis-towers-watson/en-us/search/United-States/location/Pennsylvania/Philadelphia/",
+    "address": "1500 Market St #22E, Philadelphia, PA 19102",
+    "geo": {
+      "latitude": 39.9377613,
+      "longitude": -75.1771446
+    },
+    "positions": [
+      {
+        "title": "Software Developer (.NET)"
+      }
+    ]
+  },
+  {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
     "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
@@ -2521,7 +2707,17 @@
       "latitude": 40.133626,
       "longitude": -75.255467
     },
-    "positions": []
+    "positions": [
+      {
+        "title": "Software Engineer"
+      },
+      {
+        "title": "Project Manager"
+      },
+      {
+        "title": "DevOps Engineer"
+      }
+    ]
   },
   {
     "company": "YIKES Inc",
