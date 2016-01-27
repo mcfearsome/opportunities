@@ -26,8 +26,11 @@ If you want to list a new company, please perform the following steps:
   * company
   * url
     * Should be for the company's careers or jobs page.
+  * webSiteUrl
+    * Main page for the company.
   * address
   * geo
+    * You can use [MyGeoPosition.com](http://mygeoposition.com/) to determine the geolocation for the address.
   * positions
     * If no current positions, leave as an empty array.
 * For the position objects populate the following attributes:

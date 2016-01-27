@@ -4,6 +4,7 @@
     "Organization"
   ],
   "url": "http://phillydev.org/#careers",
+  "webSiteUrl": "http://phillydev.org/",
   "address": "Philadelphia, PA",
   "geo": {
     "_comment": "You can use MyGeoPosition.com (http://mygeoposition.com/) to determine the geolocation for the address.",
