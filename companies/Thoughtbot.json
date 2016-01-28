@@ -1,6 +1,7 @@
 {
   "company": "Thoughtbot",
   "url": "https://thoughtbot.com/jobs",
+  "webSiteUrl": "https://thoughtbot.com/",
   "address": "2401 Walnut St, Suite 102, Philadelphia, PA 19103",
   "geo": {
     "latitude": 39.95109,

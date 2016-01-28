@@ -43,7 +43,7 @@ function formatFile(fileName) {
     var text = fs.readFileSync(fileName, "utf8");
     var opportunties = JSON.parse(text);
   } catch (e) {
-    console.log("ERROR: " + e.message);
+    console.log("ERROR: file: " + fileName + " error: " + e.message);
     process.exit(1);
   }
 
@@ -52,6 +52,7 @@ function formatFile(fileName) {
       encoding: "utf8"
     });
     out.write(JSON.stringify(opportunties, null, 2));
+    out.write("\n");
     out.end();
   } catch (e) {
     console.log("ERROR: Couldn't write content out to: " + fileName + "");

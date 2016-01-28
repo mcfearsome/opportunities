@@ -1,6 +1,7 @@
 {
   "company": "BrickSimple LLC",
   "url": "http://bricksimple.com/",
+  "webSiteUrl": "http://bricksimple.com/",
   "address": "22 S Main St, Doylestown, PA 18901",
   "geo": {
     "latitude": 40.309501,

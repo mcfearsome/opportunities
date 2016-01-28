@@ -2,6 +2,7 @@
   {
     "company": "AboutOne",
     "url": "http://www.aboutone.com/jobs/",
+    "webSiteUrl": "http://www.aboutone.com/",
     "address": "26 Raffaela Drive, Malvern, PA 19355",
     "geo": {
       "latitude": 40.039942,
@@ -22,6 +23,7 @@
   {
     "company": "Boomi",
     "url": "http://www.boomi.com/company/careers",
+    "webSiteUrl": "http://www.boomi.com/",
     "address": "801 Cassatt Road Suite 111 Berwyn, PA 19312",
     "geo": {
       "latitude": 40.062366,
@@ -46,6 +48,7 @@
     "company": "Deacom, Inc",
     "type": [],
     "url": "http://deacom.com/ViewPage/21/deacom-inc-company-careers",
+    "webSiteUrl": "http://deacom.com/",
     "address": "950 West Valley Road, Suite 3000, Wayne, PA 19087",
     "geo": {
       "latitude": 40.067907,
@@ -69,6 +72,7 @@
   {
     "company": "Evolve IP",
     "url": "http://www.evolveip.net/about/careers",
+    "webSiteUrl": "http://www.evolveip.net/",
     "address": "989 Old Eagle School Rd, Wayne, PA 19087",
     "geo": {
       "latitude": 40.076770625,
@@ -86,6 +90,7 @@
   {
     "company": "Medecision",
     "url": "https://careers-medecision.icims.com/jobs/intro?hashed=-435743548",
+    "webSiteUrl": "http://www.medecision.com/",
     "address": "550 E Swedesford Rd #220, Wayne, PA 19087",
     "geo": {
       "latitude": 40.0755407626,
@@ -106,6 +111,7 @@
   {
     "company": "Momentum Dynamics",
     "url": "http://www.momentumdynamics.com/momentum-dynamics.html#careers",
+    "webSiteUrl": "http://www.momentumdynamics.com/",
     "address": "3 Pennsylvania Avenue, Malvern, PA 19355",
     "geo": {
       "latitude": 40.0374198571,
@@ -130,8 +136,30 @@
     ]
   },
   {
+    "company": "NRG Edge, LLC",
+    "url": "http://nrg-edge.com/careers.html",
+    "webSiteUrl": "http://nrg-edge.com/",
+    "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+    "geo": {
+      "latitude": 40.064788,
+      "longitude": -75.533473
+    },
+    "positions": [
+      {
+        "title": "Lead Web Development Architect"
+      },
+      {
+        "title": "UI Developer"
+      },
+      {
+        "title": "Web Analyst / Tester"
+      }
+    ]
+  },
+  {
     "company": "PipelineDeals",
     "url": "https://www.pipelinedeals.com/careers",
+    "webSiteUrl": "https://www.pipelinedeals.com/",
     "address": "565 E. Swedesford Road, Suite 206, Wayne, PA 19087",
     "geo": {
       "latitude": 40.076011027,
@@ -161,6 +189,7 @@
   {
     "company": "RDA Corp",
     "url": "http://rdacorp.com/en/Careers/Current%20Openings",
+    "webSiteUrl": "http://rdacorp.com/",
     "address": "101 Lindenwood Drive Suite 225 Malvern, PA 19355",
     "geo": {
       "latitude": 40.049973,
@@ -191,6 +220,7 @@
     "company": "Rock River Star",
     "type": [],
     "url": "http://rockriverstar.com/careers",
+    "webSiteUrl": "http://rockriverstar.com/",
     "address": "202 Corner Ketch Road, Downingtown, PA 19335",
     "geo": {
       "latitude": 40.031643,
@@ -211,6 +241,7 @@
   {
     "company": "Savana, Inc.",
     "url": "http://savanainc.com/company/careers/",
+    "webSiteUrl": "http://savanainc.com/",
     "address": "920 Cassatt Road, Suite 220, Berwyn, PA 19312",
     "geo": {
       "latitude": 40.06229052,
@@ -225,6 +256,7 @@
   {
     "company": "Scala",
     "url": "http://join.scala.com/careers/",
+    "webSiteUrl": "http://scala.com/",
     "address": "7 Great Valley Pkwy #300, Malvern, PA 19355",
     "geo": {
       "latitude": 40.0632385406,
@@ -239,6 +271,7 @@
   {
     "company": "Zonoff",
     "url": "https://zonoff.com/our-story/careers/",
+    "webSiteUrl": "https://zonoff.com/",
     "address": "70 E. Swedesford Rd., Suite 120, Malvern, PA 19460",
     "geo": {
       "latitude": 40.051395125,
@@ -280,6 +313,7 @@
   {
     "company": "Zoomi",
     "url": "http://www.zoomiinc.com/jobs/",
+    "webSiteUrl": "http://www.zoomiinc.com/",
     "address": "101 Lindenwood Drive, Suite 400, Malvern PA 19355",
     "geo": {
       "latitude": 40.050203,

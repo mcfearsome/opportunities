@@ -118,6 +118,7 @@ if (fileName && dirName) {
       encoding: "utf8"
     });
     out.write(JSON.stringify(companies, null, 2));
+    out.write("\n");
     out.end(); // currently the same as destroy() and destroySoon()
   }
 

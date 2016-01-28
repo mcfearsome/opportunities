@@ -1,6 +1,7 @@
 {
   "company": "MeetMe",
   "url": "http://www.meetme.com/apps/careers#careers-position",
+  "webSiteUrl": "http://www.meetme.com/",
   "address": "100 Union Square Drive, New Hope, PA",
   "geo": {
     "latitude": 40.314,

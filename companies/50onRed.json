@@ -1,6 +1,7 @@
 {
   "company": "50onRed",
   "url": "http://50onred.theresumator.com/?utm_source=github",
+  "webSiteUrl": "http://50onred.com/",
   "address": "2929 Arch St, Philadelphia, PA 19104",
   "geo": {
     "latitude": 39.956848137931,

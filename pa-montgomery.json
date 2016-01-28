@@ -2,6 +2,7 @@
   {
     "company": "AgileTrailblazers",
     "url": "http://www.agiletrailblazers.com/careers/",
+    "webSiteUrl": "http://www.agiletrailblazers.com/",
     "address": "630 Freedom Business Center, 3rd Floor, King of Prussia, PA 19406",
     "geo": {
       "latitude": 40.092432,
@@ -27,6 +28,7 @@
   {
     "company": "ApprenNet",
     "url": "http://info.apprennet.com/jobs/",
+    "webSiteUrl": "http://info.apprennet.com/",
     "address": "1007 E Abington Ave, Wyndmoor, PA 19038",
     "geo": {
       "latitude": 40.0839338571,
@@ -41,6 +43,7 @@
   {
     "company": "Arc Intermedia",
     "url": "http://www.arcintermedia.com/company/careers/",
+    "webSiteUrl": "http://www.arcintermedia.com/",
     "address": "1150 First Ave., Suite 501, King of Prussia, PA 19406",
     "geo": {
       "latitude": 40.0950185455,
@@ -70,6 +73,7 @@
   {
     "company": "CardConnect",
     "url": "https://www.cardconnect.com/contact/job-openings/",
+    "webSiteUrl": "https://www.cardconnect.com/",
     "address": "1000 Continental Dr Suite 600, King of Prussia, PA 19406",
     "geo": {
       "latitude": 40.081367,
@@ -108,6 +112,7 @@
   {
     "company": "Chariot Solutions",
     "url": "http://chariotsolutions.com/who-we-are/careers/",
+    "webSiteUrl": "http://chariotsolutions.com/",
     "address": "515 Pennsylvania Ave #202, Fort Washington, PA 19034",
     "geo": {
       "latitude": 40.134146,
@@ -128,6 +133,7 @@
   {
     "company": "Clutch",
     "url": "https://www.clutch.com/careers/",
+    "webSiteUrl": "https://www.clutch.com/",
     "address": "201 S Maple St #250, Ambler, PA 19002",
     "geo": {
       "latitude": 40.1561585849,
@@ -145,6 +151,7 @@
   {
     "company": "CoreDial",
     "url": "https://careers-coredial.icims.com/jobs/search?ss=1&hashed=-435708982",
+    "webSiteUrl": "http://coredial.com/",
     "address": "Hillcrest I, 751 Arbor Way, Suite 150, Blue Bell PA, 19422",
     "geo": {
       "latitude": 40.140902,
@@ -214,6 +221,7 @@
     "company": "Curotec",
     "type": [],
     "url": "http://www.curotec.com/about-us/careers/",
+    "webSiteUrl": "http://www.curotec.com/",
     "address": "101 E 8th Ave, Suite #105, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.078935,
@@ -237,6 +245,7 @@
   {
     "company": "Eastern Standard",
     "url": "http://easternstandard.com/pages/careers",
+    "webSiteUrl": "http://easternstandard.com/",
     "address": "261 Old York Rd. Suite 617 Jenkintown, PA 19046",
     "geo": {
       "latitude": 40.093339,
@@ -254,6 +263,7 @@
   {
     "company": "eMoney Advisor",
     "url": "http://emoneyadvisor.theresumator.com/apply",
+    "webSiteUrl": "http://emoneyadvisor.com/",
     "address": "1001 E Hector St, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.07517,
@@ -292,6 +302,7 @@
   {
     "company": "EPAM",
     "url": "http://www.epam.com/careers",
+    "webSiteUrl": "http://www.epam.com/",
     "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.079189,
@@ -309,6 +320,7 @@
   {
     "company": "Fynydd",
     "url": "https://fynydd.com/careers/",
+    "webSiteUrl": "https://fynydd.com/",
     "address": "630 Freedom Business Center Drive, King of Prussia, PA 19406",
     "geo": {
       "latitude": 40.0922677347,
@@ -323,6 +335,7 @@
   {
     "company": "LeadiD",
     "url": "http://www.leadid.com/about-us/join-our-team/open-positions",
+    "webSiteUrl": "http://www.leadid.com/",
     "address": "201 S Maple St, Ambler, PA, 19002",
     "geo": {
       "latitude": 40.1561585849,
@@ -340,6 +353,7 @@
   {
     "company": "Monetate, Inc.",
     "url": "http://www.monetate.com/about/careers/#open-positions",
+    "webSiteUrl": "http://www.monetate.com/",
     "address": "951 E. Hector Street, Conshohocken PA 19428",
     "geo": {
       "latitude": 40.0750470612,
@@ -369,6 +383,7 @@
   {
     "company": "Municibid",
     "url": "https://municibid.com/jobs/",
+    "webSiteUrl": "https://municibid.com/",
     "address": "200 Barr Harbor Drive Suite 4, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.085953,
@@ -379,6 +394,7 @@
   {
     "company": "Offshorent",
     "url": "http://offshorent.com/careers",
+    "webSiteUrl": "http://offshorent.com/",
     "address": "1000 W. Valley Forge Circle. #110A. King Of Prussia, PA 19406",
     "geo": {
       "latitude": 40.1030152727,
@@ -399,6 +415,7 @@
   {
     "company": "Plan Management Corp.",
     "url": "http://www.optiontrax.com/about-us/working-here/",
+    "webSiteUrl": "http://www.optiontrax.com/",
     "address": "44 W. Lancaster Ave, Suite 145, Ardmore PA, 19003",
     "geo": {
       "latitude": 40.0086664118,
@@ -409,6 +426,7 @@
   {
     "company": "Plum Analytics",
     "url": "http://plumanalytics.com/about/careers/",
+    "webSiteUrl": "http://plumanalytics.com/",
     "address": "808 Firethorn Circle, Dresher PA 19025",
     "geo": {
       "latitude": 40.1518441224,
@@ -429,6 +447,7 @@
   {
     "company": "Relay",
     "url": "http://www.relaynetwork.com/careers/",
+    "webSiteUrl": "http://www.relaynetwork.com/",
     "address": "201 king of prussia rd radnor pa 19087",
     "geo": {
       "latitude": 40.081206,
@@ -461,6 +480,7 @@
   {
     "company": "roundCorner",
     "url": "http://www.roundcorner.com/job-postings/",
+    "webSiteUrl": "http://www.roundcorner.com/",
     "address": "16 E. Lancaster Ave, Ardmore, PA 19003",
     "geo": {
       "latitude": 40.0074736667,
@@ -481,6 +501,7 @@
   {
     "company": "Transmogrify",
     "url": "http://xmog.com/jobs",
+    "webSiteUrl": "http://xmog.com/",
     "address": "112 Fayette St., Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.0739984286,
@@ -501,6 +522,7 @@
   {
     "company": "Wingspan Technology",
     "url": "http://www.wingspan.com/career_open_positions/",
+    "webSiteUrl": "http://www.wingspan.com/",
     "address": "460 Norristown Road Suite 200, Blue Bell, PA 19422",
     "geo": {
       "latitude": 40.133626,
@@ -521,6 +543,7 @@
   {
     "company": "Zuppler",
     "url": "http://www.zupplerworks.com/careers.html",
+    "webSiteUrl": "http://www.zupplerworks.com/",
     "address": "730 East Elm St, Suite 200, Conshohocken, PA 19428",
     "geo": {
       "latitude": 40.0738422857,

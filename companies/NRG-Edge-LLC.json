@@ -1,0 +1,21 @@
+{
+  "company": "NRG Edge, LLC",
+  "url": "http://nrg-edge.com/careers.html",
+  "webSiteUrl": "http://nrg-edge.com/",
+  "address": "5 Great Valley Parkway, Suite 210, Malvern, PA 19355 United States",
+  "geo": {
+    "latitude": 40.064788,
+    "longitude": -75.533473
+  },
+  "positions": [
+    {
+      "title": "Lead Web Development Architect"
+    },
+    {
+      "title": "UI Developer"
+    },
+    {
+      "title": "Web Analyst / Tester"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "company": "Willis Towers Watson",
-  "url": "http://www.jobs.net/jobs/willis-towers-watson/en-us/search/United-States/location/Pennsylvania/Philadelphia/",
+  "url": "https://willis-towers-watson.jobs.net/search?facetcitystate=philadelphia%2Cpa",
+  "webSiteUrl": "https://www.willistowerswatson.com/",
   "address": "1500 Market St #22E, Philadelphia, PA 19102",
   "geo": {
     "latitude": 39.9377613,

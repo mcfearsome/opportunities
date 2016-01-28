@@ -1,10 +1,18 @@
 {
   "company": "P'unk Avenue",
-  "url": "http://punkave.com/connect",
+  "url": "http://jobs.punkave.com/",
+  "webSiteUrl": "http://punkave.com/",
   "address": "1168 E. Passyunk Avenue Philadelphia, PA 19147",
   "geo": {
     "latitude": 39.9345045143,
     "longitude": -75.1578163143
   },
-  "positions": []
+  "positions": [
+    {
+      "title": "Front-End Developer"
+    },
+    {
+      "title": "Full Stack Developer"
+    }
+  ]
 }

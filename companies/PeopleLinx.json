@@ -1,6 +1,7 @@
 {
   "company": "PeopleLinx",
   "url": "http://peoplelinx.com/careers/",
+  "webSiteUrl": "http://peoplelinx.com/",
   "address": "1835 Market Street, Philadelphia, PA 19103",
   "geo": {
     "latitude": 39.9532393469,

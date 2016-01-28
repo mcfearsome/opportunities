@@ -1,6 +1,7 @@
 {
   "company": "Elsevier",
-  "url": "https://reedelsevier.taleo.net/careersection/3/jobdetail.ftl",
+  "url": "https://www.elsevier.com/about/careers/tech",
+  "webSiteUrl": "https://www.elsevier.com/",
   "address": "1600 John F Kennedy Blvd #1800, Philadelphia, PA 19103",
   "geo": {
     "latitude": 39.9537238,

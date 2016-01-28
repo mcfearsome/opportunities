@@ -1,6 +1,7 @@
 {
   "company": "I-SITE",
   "url": "http://www.i-site.com/blog",
+  "webSiteUrl": "http://www.i-site.com/",
   "address": "15 South 3rd St Suite 200, Philadelphia, PA, 19106",
   "geo": {
     "latitude": 39.9496157,

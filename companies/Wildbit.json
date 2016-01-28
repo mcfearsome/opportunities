@@ -1,6 +1,7 @@
 {
   "company": "Wildbit",
   "url": "http://wildbit.com/jobs",
+  "webSiteUrl": "http://wildbit.com/",
   "address": "20 N 3rd St Philadelphia PA 19106",
   "geo": {
     "latitude": 39.9505591429,

@@ -1,6 +1,7 @@
 {
   "company": "EPAM",
   "url": "http://www.epam.com/careers",
+  "webSiteUrl": "http://www.epam.com/",
   "address": "101 E 8th Ave #201, Conshohocken, PA 19428",
   "geo": {
     "latitude": 40.079189,

@@ -1,6 +1,7 @@
 {
   "company": "GatherDocs",
   "url": "http://jobs.gatherdocs.com/",
+  "webSiteUrl": "http://gatherdocs.com/",
   "address": "4040 Locust St, Philadelphia, PA 19104",
   "geo": {
     "latitude": 39.9531008333,
