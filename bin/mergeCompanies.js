@@ -7,6 +7,12 @@ if (fileName && dirName) {
   var text = fs.readFileSync(fileName, "utf8");
   var geoData = JSON.parse(text);
   var counties = geoData.features;
+  // Keep track of what counties get written
+  var lists = [];
+  // Add 'All Counties' first
+  lists.push({label: 'All Companies', fileName: 'lists/all-counties.json'});
+  // Make a directory for county json to live in
+  fs.mkdir('lists', (err) => { /* Do Nothing */ });
 
   counties.forEach(processCounty);
 
@@ -34,7 +40,8 @@ if (fileName && dirName) {
         companies.push(company);
       }
 
-      writeCompanyMerge('all-companies.json', companies);
+      writeCompanyMerge('lists/all-companies.json', companies);
+      writeCountyIndex();
     }
   }
 
@@ -81,7 +88,11 @@ if (fileName && dirName) {
       }
 
       if (insideCounty.length > 0) {
-        var newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        var newFileName = "lists/" + county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        lists.push({
+          label: county.properties.State.toLowerCase() + ' - ' + county.properties.Co_Name.toLowerCase(),
+          fileName: newFileName
+        });
         writeCompanyMerge(newFileName, insideCounty);
       }
       console.log(county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + "\t" + insideCounty.length);
@@ -112,14 +123,29 @@ if (fileName && dirName) {
     return c;
   }
 
-
-  function writeCompanyMerge(fileName, companies) {
+  function writeJsonToFile(fileName, obj) {
     var out = fs.createWriteStream(fileName, {
       encoding: "utf8"
     });
-    out.write(JSON.stringify(companies, null, 2));
+    out.write(JSON.stringify(obj, null, 2));
     out.write("\n");
     out.end(); // currently the same as destroy() and destroySoon()
+  }
+
+  function writeCompanyMerge(fileName, companies) {
+    writeJsonToFile(fileName, companies);
+  }
+
+  function writeCountyIndex() {
+    // Sort the counties by state
+    lists.sort(function(a, b) {
+      if (a.label > b.label) {
+        return 1;
+      } else {
+        return -1;
+      }
+    });
+    writeJsonToFile('lists/lists.json', {counties: lists});
   }
 
 } else {

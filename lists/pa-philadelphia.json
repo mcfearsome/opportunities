@@ -2138,15 +2138,12 @@
     "company": "Wildbit",
     "url": "http://wildbit.com/jobs",
     "webSiteUrl": "http://wildbit.com/",
-    "address": "20 N 3rd St Philadelphia PA 19106",
+    "address": "22 N 3rd St, Philadelphia, PA 19106",
     "geo": {
-      "latitude": 39.9505591429,
-      "longitude": -75.1455902857
+      "latitude": 39.9508689,
+      "longitude": -75.1457279
     },
     "positions": [
-      {
-        "title": "Senior C# Developer"
-      },
       {
         "title": "Quality Assurance Engineer"
       }

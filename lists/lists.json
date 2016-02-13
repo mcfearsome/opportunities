@@ -1,0 +1,40 @@
+{
+  "counties": [
+    {
+      "label": "All Companies",
+      "fileName": "lists/all-counties.json"
+    },
+    {
+      "label": "de - new castle",
+      "fileName": "lists/de-new castle.json"
+    },
+    {
+      "label": "nj - burlington",
+      "fileName": "lists/nj-burlington.json"
+    },
+    {
+      "label": "nj - camden",
+      "fileName": "lists/nj-camden.json"
+    },
+    {
+      "label": "pa - bucks",
+      "fileName": "lists/pa-bucks.json"
+    },
+    {
+      "label": "pa - chester",
+      "fileName": "lists/pa-chester.json"
+    },
+    {
+      "label": "pa - delaware",
+      "fileName": "lists/pa-delaware.json"
+    },
+    {
+      "label": "pa - montgomery",
+      "fileName": "lists/pa-montgomery.json"
+    },
+    {
+      "label": "pa - philadelphia",
+      "fileName": "lists/pa-philadelphia.json"
+    }
+  ]
+}
