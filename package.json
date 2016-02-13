@@ -18,11 +18,18 @@
   ],
   "author": "Brian McElaney",
   "contributors": [
-    { "name": "Michael Flynn" }
+    {
+      "name": "Michael Flynn"
+    }
   ],
   "license": "",
   "bugs": {
     "url": "https://github.com/mcelaney/opportunities/issues"
   },
-  "homepage": "https://github.com/mcelaney/opportunities#readme"
+  "homepage": "https://github.com/mcelaney/opportunities#readme",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.2.0",
+    "less": "^2.6.0"
+  }
 }
