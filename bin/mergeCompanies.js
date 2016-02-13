@@ -10,7 +10,7 @@ if (fileName && dirName) {
   // Keep track of what counties get written
   var lists = [];
   // Add 'All Counties' first
-  lists.push({label: 'All Companies', fileName: 'lists/all-counties.json'});
+  lists.push({label: 'All Companies', state: 'all', county: 'all', fileName: 'lists/all-counties.json'});
   // Make a directory for county json to live in
   fs.mkdir('lists', (err) => { /* Do Nothing */ });
 
@@ -90,7 +90,9 @@ if (fileName && dirName) {
       if (insideCounty.length > 0) {
         var newFileName = "lists/" + county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
         lists.push({
-          label: county.properties.State.toLowerCase() + ' - ' + county.properties.Co_Name.toLowerCase(),
+          label: county.properties.Co_Name.toLowerCase(),
+          state: county.properties.State.toLowerCase(),
+          county: county.properties.Co_Name.toLowerCase(),
           fileName: newFileName
         });
         writeCompanyMerge(newFileName, insideCounty);
@@ -145,7 +147,7 @@ if (fileName && dirName) {
         return -1;
       }
     });
-    writeJsonToFile('lists/lists.json', {counties: lists});
+    writeJsonToFile('lists/lists.json', lists);
   }
 
 } else {
