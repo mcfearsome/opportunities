@@ -1,0 +1,18 @@
+{
+  "company": "eCity Interactive",
+  "url": "http://ecityinteractive.com/us/careers/",
+  "webSiteUrl": "http://ecityinteractive.com/",
+  "address": "136 S 15th St, Philadelphia, PA 19102",
+  "geo": {
+    "latitude": 39.949955,
+    "longitude": -75.165874
+  },
+  "positions": [
+    {
+      "title": "Senior Developer w/Sys Ops Experience"
+    },
+    {
+      "title": "Junior Interactive Designer"
+    }
+  ]
+}

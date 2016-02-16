@@ -1,0 +1,15 @@
+{
+  "company": "BTB Security",
+  "url": "http://www.btbsecurity.com/who-we-are/job-opportunities",
+  "webSiteUrl": "http://www.btbsecurity.com/",
+  "address": "3 Bala Plaza, Suite 701, Bala Cynwyd, PA 19004",
+  "geo": {
+    "latitude": 40.009488,
+    "longitude": -75.218509
+  },
+  "positions": [
+    {
+      "title": "RADAR Analyst"
+    }
+  ]
+}

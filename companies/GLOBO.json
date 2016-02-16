@@ -1,0 +1,18 @@
+{
+  "company": "GLOBO",
+  "url": "https://globolanguage.hyrell.com/UI/Views/Applicant/VirtualStepCareers.aspx",
+  "webSiteUrl": "http://www.helloglobo.com/",
+  "address": "500 W Office Center Drive, Fort Washington, PA 19034",
+  "geo": {
+    "latitude": 40.141835,
+    "longitude": -75.173581
+  },
+  "positions": [
+    {
+      "title": "DevOps Engineer"
+    },
+    {
+      "title": "Quality Assurance Coordinator: Bilingual English-Spanish"
+    }
+  ]
+}

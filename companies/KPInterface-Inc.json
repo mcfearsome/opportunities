@@ -1,0 +1,21 @@
+{
+  "company": "KPInterface, Inc.",
+  "url": "http://www.kpinterface.com/careers.html",
+  "webSiteUrl": "http://www.kpinterface.com/",
+  "address": "477 N. Lewis Road, Suite 210, Limerick, PA 19468",
+  "geo": {
+    "latitude": 40.209139,
+    "longitude": -75.544583
+  },
+  "positions": [
+    {
+      "title": "IT Consultant – Mid-Level"
+    },
+    {
+      "title": "IT Consultant – Junior Level"
+    },
+    {
+      "title": "Computer Tech Support Internship"
+    }
+  ]
+}

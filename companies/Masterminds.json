@@ -1,0 +1,24 @@
+{
+  "company": "Masterminds",
+  "url": "http://mastermindsagency.com/#gigs",
+  "webSiteUrl": "http://mastermindsagency.com/",
+  "address": "1315 Walnut Street, Suite 300, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.9493152971,
+    "longitude": -75.1626386191
+  },
+  "positions": [
+    {
+      "title": "Social Media Community Manager"
+    },
+    {
+      "title": "Graphic Designer – Full time or Freelance"
+    },
+    {
+      "title": "Creative Internships"
+    },
+    {
+      "title": "Media Internship"
+    }
+  ]
+}

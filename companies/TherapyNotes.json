@@ -1,0 +1,21 @@
+{
+  "company": "TherapyNotes",
+  "url": "https://www.pliner.com/careers/",
+  "webSiteUrl": "https://www.therapynotes.com/",
+  "address": "630 Fitzwatertown Rd, Suite A4, Willow Grove, PA, 19090",
+  "geo": {
+    "latitude": 40.157568,
+    "longitude": -75.120882
+  },
+  "positions": [
+    {
+      "title": "Quality Assurance Engineer"
+    },
+    {
+      "title": "Senior Software Developer"
+    },
+    {
+      "title": "Software Developer"
+    }
+  ]
+}

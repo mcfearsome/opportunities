@@ -1,0 +1,27 @@
+{
+  "company": "Veris Associates, Inc., dba VerisVisalign",
+  "url": "http://www.verisvisalign.com/company/careers/career-opportunities/",
+  "webSiteUrl": "http://www.verisvisalign.com/",
+  "address": "920 S. Broad Street, Lansdale, PA 19446",
+  "geo": {
+    "latitude": 40.229151,
+    "longitude": -75.296258
+  },
+  "positions": [
+    {
+      "title": "SHAREPOINT ARCHITECTS"
+    },
+    {
+      "title": "SHAREPOINT DEVELOPERS"
+    },
+    {
+      "title": "PROJECT MANAGER"
+    },
+    {
+      "title": "HELP DESK/SERVICE DESK ANALYST"
+    },
+    {
+      "title": "APPLICATION PACKAGER"
+    }
+  ]
+}

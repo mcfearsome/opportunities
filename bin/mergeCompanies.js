@@ -7,7 +7,13 @@ if (fileName && dirName) {
   var text = fs.readFileSync(fileName, "utf8");
   var geoData = JSON.parse(text);
   var counties = geoData.features;
-
+  // Keep track of what counties get written
+  var lists = [];
+  // Add 'All Counties' first
+  lists.push({label: 'All Companies', state: 'all', county: 'all', fileName: 'lists/all-counties.json'});
+  // Make a directory for county json to live in
+  fs.mkdir('lists', (err) => { /* Do Nothing */ });
+  var all_companies = [];
   counties.forEach(processCounty);
 
   mergeAll(dirName);
@@ -23,18 +29,25 @@ if (fileName && dirName) {
         return;
       }
 
-      files = files.filter(isJsonFile);
-      files.sort(caseInsensitiveSort);
-      files.forEach(addCompany);
-
-      function addCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
-
-        companies.push(company);
-      }
-
-      writeCompanyMerge('all-companies.json', companies);
+      // files = files.filter(isJsonFile);
+      // files.sort(caseInsensitiveSort);
+      // files.forEach(addCompany);
+      //
+      // function addCompany(fileName) {
+      //   var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
+      //   var company = JSON.parse(text);
+      //
+      //   companies.push(company);
+      // }
+      all_companies.sort(function(a, b) {
+        if (a.company > b.company) {
+          return 1;
+        } else {
+          return -1;
+        }
+      });
+      writeCompanyMerge('lists/all-companies.json', all_companies);
+      writeCountyIndex();
     }
   }
 
@@ -72,16 +85,25 @@ if (fileName && dirName) {
       function checkCompany(fileName) {
         var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
         var company = JSON.parse(text);
-
+        company.state = county.properties.State.toLowerCase();
+        company.county = county.properties.Co_Name.toLowerCase();
         if ('geo' in company) {
           if (isPointInRegion(countyLimits, company.geo)) {
+            all_companies.push(company);
             insideCounty.push(company);
+
           }
         }
       }
 
       if (insideCounty.length > 0) {
-        var newFileName = county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        var newFileName = "lists/" + county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + ".json";
+        lists.push({
+          label: county.properties.Co_Name.toLowerCase(),
+          state: county.properties.State.toLowerCase(),
+          county: county.properties.Co_Name.toLowerCase(),
+          fileName: newFileName
+        });
         writeCompanyMerge(newFileName, insideCounty);
       }
       console.log(county.properties.State.toLowerCase() + "-" + county.properties.Co_Name.toLowerCase() + "\t" + insideCounty.length);
@@ -112,14 +134,29 @@ if (fileName && dirName) {
     return c;
   }
 
-
-  function writeCompanyMerge(fileName, companies) {
+  function writeJsonToFile(fileName, obj) {
     var out = fs.createWriteStream(fileName, {
       encoding: "utf8"
     });
-    out.write(JSON.stringify(companies, null, 2));
+    out.write(JSON.stringify(obj, null, 2));
     out.write("\n");
     out.end(); // currently the same as destroy() and destroySoon()
+  }
+
+  function writeCompanyMerge(fileName, companies) {
+    writeJsonToFile(fileName, companies);
+  }
+
+  function writeCountyIndex() {
+    // Sort the counties by state
+    lists.sort(function(a, b) {
+      if (a.label > b.label) {
+        return 1;
+      } else {
+        return -1;
+      }
+    });
+    writeJsonToFile('lists/lists.json', lists);
   }
 
 } else {

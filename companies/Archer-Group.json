@@ -1,0 +1,27 @@
+{
+  "company": "Archer Group",
+  "url": "http://www.archer-group.com/careers.html",
+  "webSiteUrl": "http://www.archer-group.com/",
+  "address": "233 N King St, Wilmington, DE 19801",
+  "geo": {
+    "latitude": 39.739341,
+    "longitude": -75.551174
+  },
+  "positions": [
+    {
+      "title": "Application Developer"
+    },
+    {
+      "title": "Senior Application Developer"
+    },
+    {
+      "title": "Senior Sitecore Developer"
+    },
+    {
+      "title": "UX Openings"
+    },
+    {
+      "title": "Mid-Level UX Designer"
+    }
+  ]
+}

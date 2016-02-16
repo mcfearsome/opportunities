@@ -1,0 +1,15 @@
+{
+  "company": "Famehouse",
+  "url": "http://famehouse.net/category/job-listings/",
+  "webSiteUrl": "http://famehouse.net/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "FRONT-END DEVELOPER"
+    }
+  ]
+}

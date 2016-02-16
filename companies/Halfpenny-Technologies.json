@@ -1,0 +1,18 @@
+{
+  "company": "Halfpenny Technologies",
+  "url": "http://www.halfpenny.com/careers.html",
+  "webSiteUrl": "http://www.halfpenny.com/",
+  "address": "960 Harvest Drive, Building B Suite 200, Blue Bell, PA 19422",
+  "geo": {
+    "latitude": 40.152771,
+    "longitude": -75.283326
+  },
+  "positions": [
+    {
+      "title": "Integration Developer"
+    },
+    {
+      "title": "Quality Assurance (QA) Analyst"
+    }
+  ]
+}

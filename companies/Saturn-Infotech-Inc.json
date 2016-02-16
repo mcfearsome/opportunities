@@ -1,0 +1,21 @@
+{
+  "company": "Saturn Infotech Inc",
+  "url": "http://www.saturninfotech.com/pagedetail.php?contentid=22&mid=21",
+  "webSiteUrl": "http://www.saturninfotech.com/",
+  "address": "1120 Welsh Road, Suite 110, North Wales, Pennsylvania 19454",
+  "geo": {
+    "latitude": 40.227722,
+    "longitude": -75.261352
+  },
+  "positions": [
+    {
+      "title": "Entry Level Hyperion Developers"
+    },
+    {
+      "title": "Junior C/C++ or MATLAB Developers"
+    },
+    {
+      "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Lamps.com Inc",
+  "url": "http://jobs.interactivecommercegroup.com/",
+  "webSiteUrl": "http://www.lamps.com/",
+  "address": "1217 Sansom St, Floor 8, Philadelphia, PA 19107",
+  "geo": {
+    "latitude": 39.949923,
+    "longitude": -75.161334
+  },
+  "positions": [
+    {
+      "title": "eCommerce Merchandiser"
+    },
+    {
+      "title": "Full Stack Magento Developer"
+    },
+    {
+      "title": "Product Data Specialist"
+    }
+  ]
+}

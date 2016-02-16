@@ -1,0 +1,102 @@
+{
+  "company": "Susquehanna International Group",
+  "url": "https://careers.sig.com/",
+  "webSiteUrl": "http://sig.com/",
+  "address": "401 City Avenue, Bala Cynwyd, PA 19004",
+  "geo": {
+    "latitude": 40.008582,
+    "longitude": -75.213322
+  },
+  "positions": [
+    {
+      "title": "Junior Technical Support Analyst"
+    },
+    {
+      "title": "QlikView Developer"
+    },
+    {
+      "title": "Software Engineering Internship Program"
+    },
+    {
+      "title": "Junior Systems Administrator (Data Center)"
+    },
+    {
+      "title": "Software Developer"
+    },
+    {
+      "title": "Software Developer - Middleware"
+    },
+    {
+      "title": "Business Analyst/Project Manager"
+    },
+    {
+      "title": "FPGA Engineer"
+    },
+    {
+      "title": "Technical Support Analyst"
+    },
+    {
+      "title": "Telecom Client Support Analyst"
+    },
+    {
+      "title": "Senior VMware Engineer"
+    },
+    {
+      "title": "Software Developer - Clearing and Positions"
+    },
+    {
+      "title": "Software Engineer - Production Engineering"
+    },
+    {
+      "title": "Software Developer - C++"
+    },
+    {
+      "title": "Messaging Engineer (Middleware)"
+    },
+    {
+      "title": "Linux Engineer"
+    },
+    {
+      "title": "Technical Support Analyst (Trading Floor)"
+    },
+    {
+      "title": "Technology Associate: Software Engineering Development Program"
+    },
+    {
+      "title": "Junior FPGA Engineer"
+    },
+    {
+      "title": "Software Developer- Operations"
+    },
+    {
+      "title": "Software Developer - SOT Services"
+    },
+    {
+      "title": "Technology Co-op"
+    },
+    {
+      "title": "Junior Technical Support Engineer"
+    },
+    {
+      "title": "Junior Telecom Client Support Analyst"
+    },
+    {
+      "title": "Systems & Network Administrator (Data Center)"
+    },
+    {
+      "title": "Technical Business Analyst"
+    },
+    {
+      "title": "Software Developer – Proprietary Trading Services"
+    },
+    {
+      "title": "Software Developer - Instruments Team"
+    },
+    {
+      "title": "Software Developer- TORQ"
+    },
+    {
+      "title": "Quantitative Developer - Backtesting and Research Computing "
+    }
+  ]
+}

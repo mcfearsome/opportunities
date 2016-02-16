@@ -44,7 +44,7 @@ function formatFile(fileName) {
     var opportunties = JSON.parse(text);
   } catch (e) {
     console.log("ERROR: file: " + fileName + " error: " + e.message);
-    process.exit(1);
+    return false;
   }
 
   try {
@@ -57,7 +57,7 @@ function formatFile(fileName) {
   } catch (e) {
     console.log("ERROR: Couldn't write content out to: " + fileName + "");
     console.log("ERROR: " + e.message);
-    process.exit(1);
+    return false;
   }
 }
 

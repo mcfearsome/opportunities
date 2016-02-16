@@ -1,0 +1,15 @@
+{
+  "company": "Brio Solutions",
+  "url": "http://www.briosolutions.com/About/Careers.aspx",
+  "webSiteUrl": "http://www.briosolutions.com/",
+  "address": "455 Pennsylvania Avenue, Suite 136, Fort Washington, PA 19034",
+  "geo": {
+    "latitude": 40.135976,
+    "longitude": -75.20793
+  },
+  "positions": [
+    {
+      "title": ".NET Software Developers (All Levels)"
+    }
+  ]
+}

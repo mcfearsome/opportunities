@@ -1,0 +1,18 @@
+{
+  "company": "Clinical Ink",
+  "url": "https://careers.smartrecruiters.com/ClinicalInk",
+  "webSiteUrl": "http://www.clinicalink.com/",
+  "address": "110 Gibraltar Road, Suite 150, Horsham, PA 19044",
+  "geo": {
+    "latitude": 40.171473,
+    "longitude": -75.130956
+  },
+  "positions": [
+    {
+      "title": ".Net Senior Engineer"
+    },
+    {
+      "title": ".NET/SQL Developer"
+    }
+  ]
+}

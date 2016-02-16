@@ -1,0 +1,21 @@
+{
+  "company": "Swift Capital",
+  "url": "https://www.swiftcapital.com/Careers",
+  "webSiteUrl": "http://www.swiftcapital.com/",
+  "address": "501 Carr Rd #301, Wilmington, DE 19809",
+  "geo": {
+    "latitude": 39.776617,
+    "longitude": -75.513209
+  },
+  "positions": [
+    {
+      "title": "UX/UI Designer/Developer"
+    },
+    {
+      "title": "Software Quality Assurance (QA) Engineer"
+    },
+    {
+      "title": "Senior C#.Net Software Development Engineer "
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "company": "Zoomer",
+  "url": "https://jobs.lever.co/zoomer",
+  "webSiteUrl": "http://www.zoomerdelivery.com/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Backend Engineer"
+    }
+  ]
+}

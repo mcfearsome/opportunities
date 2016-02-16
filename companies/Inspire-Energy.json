@@ -1,0 +1,21 @@
+{
+  "company": "Inspire Energy",
+  "url": "http://www.inspireenergy.com/join-our-team#powers",
+  "webSiteUrl": "http://www.inspireenergy.com/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 39.952584,
+    "longitude": -75.165222
+  },
+  "positions": [
+    {
+      "title": "Backend Developer - VC Backed Startup"
+    },
+    {
+      "title": "Full Stack Developer - VC Backed Startup"
+    },
+    {
+      "title": "Web Developer - VC Backed Startup"
+    }
+  ]
+}

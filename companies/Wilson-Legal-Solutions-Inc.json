@@ -1,0 +1,15 @@
+{
+  "company": "Wilson Legal Solutions Inc",
+  "url": "http://www.wilsonlegalsol.com/careers.html",
+  "webSiteUrl": "http://www.wilsonlegalsol.com/",
+  "address": "3817 West Chester Pike, Newtown Square, PA 19073",
+  "geo": {
+    "latitude": 39.986286,
+    "longitude": -75.408623
+  },
+  "positions": [
+    {
+      "title": ".Net Developer"
+    }
+  ]
+}

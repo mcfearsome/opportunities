@@ -1,0 +1,18 @@
+{
+  "company": "MaassMedia, LLC",
+  "url": "http://www.maassmedia.com/about-our-careers.php",
+  "webSiteUrl": "http://www.maassmedia.com/",
+  "address": "1880 JFK Blvd, Suite 201, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.954096,
+    "longitude": -75.171007
+  },
+  "positions": [
+    {
+      "title": "Analytics Solutions Engineer"
+    },
+    {
+      "title": "Consultant - Data Science/Reporting"
+    }
+  ]
+}

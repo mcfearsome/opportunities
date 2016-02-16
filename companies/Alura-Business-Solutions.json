@@ -1,0 +1,15 @@
+{
+  "company": "Alura Business Solutions",
+  "url": "http://www.alura.com/about.php",
+  "webSiteUrl": "http://www.alura.com/",
+  "address": "1000 Germantown Pike, Suite C4, Plymouth Meeting, PA 19462",
+  "geo": {
+    "latitude": 40.129261,
+    "longitude": -75.297043
+  },
+  "positions": [
+    {
+      "title": "Network Administrator"
+    }
+  ]
+}

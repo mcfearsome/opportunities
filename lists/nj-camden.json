@@ -1,0 +1,55 @@
+[
+  {
+    "company": "GoEmerchant",
+    "type": [],
+    "url": "http://www.goemerchant.com/careers.aspx",
+    "webSiteUrl": "http://www.goemerchant.com/",
+    "address": "1 Mall Drive, Suite 515, Cherry Hill, NJ 08002",
+    "geo": {
+      "latitude": 39.942654,
+      "longitude": -75.025045
+    },
+    "positions": [
+      {
+        "title": "Technical Support Representative"
+      }
+    ],
+    "state": "nj",
+    "county": "camden"
+  },
+  {
+    "company": "Linode, LLC",
+    "url": "https://www.linode.com/careers",
+    "webSiteUrl": "https://www.linode.com/",
+    "address": "Kings Hall, 2 Kings Highway West, Haddonfield, NJ 08033",
+    "geo": {
+      "latitude": 39.8958,
+      "longitude": -75.036109
+    },
+    "positions": [
+      {
+        "title": "Linux Technical Support"
+      },
+      {
+        "title": "Agile Project Manager (Scrum Master)"
+      },
+      {
+        "title": "Technical Writer"
+      },
+      {
+        "title": "Linux Network Engineer"
+      },
+      {
+        "title": "Network Administrator"
+      },
+      {
+        "title": "Linux Systems Engineer"
+      },
+      {
+        "title": "Security Engineer"
+      }
+    ],
+    "state": "nj",
+    "county": "camden"
+  }
+]

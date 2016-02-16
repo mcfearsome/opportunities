@@ -1,0 +1,18 @@
+{
+  "company": "WizeHive",
+  "url": "https://review.wizehive.com/voting/posting",
+  "webSiteUrl": "http://wizehive.com/",
+  "address": "441 E. Hector Street, Conshohocken, PA 19428",
+  "geo": {
+    "latitude": 40.073628,
+    "longitude": -75.297755
+  },
+  "positions": [
+    {
+      "title": "Implementation Specialist"
+    },
+    {
+      "title": "Jr. Implementation Specialist"
+    }
+  ]
+}

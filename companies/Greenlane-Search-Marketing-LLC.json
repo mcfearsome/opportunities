@@ -1,0 +1,18 @@
+{
+  "company": "Greenlane Search Marketing, LLC",
+  "url": "http://www.greenlaneseo.com/jobs/",
+  "webSiteUrl": "http://www.greenlaneseo.com/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 39.952584,
+    "longitude": -75.165222
+  },
+  "positions": [
+    {
+      "title": "Graphic / Web Designer"
+    },
+    {
+      "title": "Web Analyst"
+    }
+  ]
+}
