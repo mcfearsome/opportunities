@@ -15,18 +15,18 @@
         </header>
         <ul class="nav navbar-nav">
           <li ng-repeat="state in states"
-              ng-class="{ dropdown: (counties[state] && counties[state].length > 0), active: (state == nav_active_state) }">
+              ng-class="{ dropdown: (counties[state] && counties[state].length > 2), active: (state == nav_active_state) }">
               <a href="#"
-                  ng-class="{'dropdown-toggle': (counties[state] && counties[state].length > 0)}"
-                  data-toggle="{{(counties[state] && counties[state].length > 0) ? 'dropdown':''}}"
-                  role="{{(counties[state] && counties[state].length > 0) ? 'button':''}}"
-                  aria-haspopup="{{(counties[state] && counties[state].length > 0) ? 'true':'false'}}"
-                  aria-expanded="{{(counties[state] && counties[state].length > 0) ? 'false':''}}"
+                  ng-class="{'dropdown-toggle': (counties[state] && counties[state].length > 2)}"
+                  data-toggle="{{(counties[state] && counties[state].length > 2) ? 'dropdown':''}}"
+                  role="{{(counties[state] && counties[state].length > 2) ? 'button':''}}"
+                  aria-haspopup="{{(counties[state] && counties[state].length > 2) ? 'true':'false'}}"
+                  aria-expanded="{{(counties[state] && counties[state].length > 2) ? 'false':''}}"
                   ng-click="navClick(state)">
                   {{state}}
-                  <span class="caret" ng-if="(counties[state] && counties[state].length > 0)"></span>
+                  <span class="caret" ng-if="(counties[state] && counties[state].length > 2)"></span>
               </a>
-              <ul class="dropdown-menu" ng-if="(counties[state] && counties[state].length > 0)">
+              <ul class="dropdown-menu" ng-if="(counties[state] && counties[state].length > 2)">
                 <li ng-repeat="county in counties[state]"
                     ng-class="{active: (state == nav_active_state && county == nav_active_county)}">
                     <a href="#" ng-click="navClick(state, county)">{{county}}</a>
