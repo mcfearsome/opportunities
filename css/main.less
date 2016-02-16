@@ -9,7 +9,11 @@ h1 {
 .container {
   margin-top: 80px;
 }
-
+.navbar-form {
+  padding: 5px 15px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
 input {
   margin-right: 25px;
   margin-top: 5px;
@@ -17,4 +21,15 @@ input {
 
 input[type="text"] {
   border: 1px solid #707070;
+}
+.dropdown:hover {
+  .dropdown-menu {
+    display: block;
+  }
+}
+.dropdown-menu {
+  li.active > a {
+    color: #555;
+    background-color: #e7e7e7;
+  }
 }
