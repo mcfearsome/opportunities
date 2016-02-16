@@ -18,7 +18,9 @@
       {
         "title": "SENIOR SOFTWARE ENGINEER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Boomi",
@@ -42,7 +44,9 @@
       {
         "title": "Software QA Staff Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Cerner",
@@ -53,7 +57,9 @@
       "latitude": 40.060103,
       "longitude": -75.522087
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Deacom, Inc",
@@ -78,7 +84,9 @@
       {
         "title": "ERP Product Specialist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Evolve IP",
@@ -96,7 +104,9 @@
       {
         "title": "Platform Engineer, Cloud Computing"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "iPipeline",
@@ -120,7 +130,9 @@
       {
         "title": "Application Support Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Medecision",
@@ -141,7 +153,9 @@
       {
         "title": "Solution Architect, Senior"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Momentum Dynamics",
@@ -168,7 +182,9 @@
       {
         "title": "Embedded Software Engineers"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "NRG Edge, LLC",
@@ -189,7 +205,9 @@
       {
         "title": "Web Analyst / Tester"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "PipelineDeals",
@@ -219,7 +237,9 @@
       {
         "title": "QA Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "RDA Corp",
@@ -249,7 +269,9 @@
       {
         "title": "Cloud Developer Architect Contractor"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Rock River Star",
@@ -271,7 +293,9 @@
       {
         "title": "Programmer / Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Savana, Inc.",
@@ -286,7 +310,9 @@
       {
         "title": "Business Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Scala",
@@ -301,7 +327,9 @@
       {
         "title": "Programmer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Zonoff",
@@ -343,7 +371,9 @@
       {
         "title": "Director, Content and Brand Marketing"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   },
   {
     "company": "Zoomi",
@@ -358,6 +388,8 @@
       {
         "title": "ALGORITHM ENGINEER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "chester"
   }
 ]

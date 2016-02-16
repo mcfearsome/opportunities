@@ -39,7 +39,9 @@
       {
         "title": "Drupal Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "50onRed",
@@ -66,7 +68,9 @@
       {
         "title": "Sales Executive"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Al Día",
@@ -77,7 +81,9 @@
       "latitude": 39.9532393469,
       "longitude": -75.1705572449
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Allen & Gerritsen",
@@ -104,7 +110,9 @@
       {
         "title": "Senior Digital Media Planner"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Aramark",
@@ -125,7 +133,9 @@
       {
         "title": "Sr. Technical Consultant/Data Architect"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Arcweb Technologies",
@@ -155,7 +165,9 @@
       {
         "title": "Software Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Arora Engineers, Inc.",
@@ -191,7 +203,9 @@
       {
         "title": "CAD Designers/Operators"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Azavea",
@@ -215,7 +229,9 @@
       {
         "title": "Software Engineer - GeoTrellis Team"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "baseklas",
@@ -230,7 +246,9 @@
       {
         "title": "Groovy designer needed!"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Billy Penn",
@@ -245,7 +263,9 @@
       {
         "title": "Freelance Developers"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Biomeme, Inc.",
@@ -256,7 +276,9 @@
       "latitude": 39.9390814898,
       "longitude": -75.1767853469
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Blackfynn",
@@ -274,7 +296,9 @@
       {
         "title": "Front-end Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Bluecadet",
@@ -292,7 +316,9 @@
       {
         "title": "Senior Interactive Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "BresslerGroup",
@@ -325,7 +351,9 @@
       {
         "title": "Industrial Design Internship"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Brolik",
@@ -336,7 +364,9 @@
       "latitude": 39.9591977619,
       "longitude": -75.1502415238
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Brownstein Group",
@@ -351,7 +381,9 @@
       {
         "title": "Production Artist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "BuLogics",
@@ -372,7 +404,9 @@
       {
         "title": "Cross-Platform Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "ChatterBlast Media",
@@ -387,7 +421,9 @@
       {
         "title": "Account Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Circulate",
@@ -398,7 +434,9 @@
       "latitude": 39.949345,
       "longitude": -75.164338
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Cloudamize",
@@ -419,7 +457,9 @@
       {
         "title": "DevOps Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Cloudmine Inc.",
@@ -430,7 +470,9 @@
       "latitude": 39.9491672,
       "longitude": -75.1628294
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Club OS",
@@ -451,7 +493,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "CLVmetrics",
@@ -472,7 +516,9 @@
       {
         "title": "Full Stack Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Conigent",
@@ -508,7 +554,9 @@
       {
         "title": "M3 Functional Consultant - Planning & Manufacturing Operations"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Copycat Tech, Inc",
@@ -523,7 +571,9 @@
       {
         "title": "iOS Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Curalate",
@@ -553,7 +603,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "D4 Creative Group",
@@ -580,7 +632,9 @@
       {
         "title": "PHP Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Delphic Digital",
@@ -598,7 +652,9 @@
       {
         "title": "Systems Admin / DevOps Architect"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Diagnostic Driving, LLC",
@@ -614,7 +670,9 @@
         "title": "Game Developer",
         "datePosted": "2016-02-11"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "DramaFever",
@@ -635,7 +693,9 @@
       {
         "title": "Network Operations Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Dronecast",
@@ -659,7 +719,9 @@
       {
         "title": "Social Media Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "eCity Interactive",
@@ -677,7 +739,9 @@
       {
         "title": "Junior Interactive Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Economy League of Greater Philadelphia",
@@ -692,7 +756,9 @@
       {
         "title": "PROJECT MANAGER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Elsevier",
@@ -734,7 +800,9 @@
       {
         "title": "VP Infrastructure & Operations"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Evoke Health",
@@ -776,7 +844,9 @@
       {
         "title": "Analytics Associate"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Famehouse",
@@ -791,7 +861,9 @@
       {
         "title": "FRONT-END DEVELOPER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "GatherDocs",
@@ -809,7 +881,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "GovDelivery",
@@ -820,7 +894,9 @@
       "latitude": 39.952584,
       "longitude": -75.165222
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Graphene Frontiers",
@@ -841,7 +917,9 @@
       {
         "title": "Senior Semiconductor Device Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Greenlane Search Marketing, LLC",
@@ -859,7 +937,9 @@
       {
         "title": "Web Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Guru",
@@ -870,7 +950,9 @@
       "latitude": 39.9490966709,
       "longitude": -75.1446795469
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Happy Cog",
@@ -890,7 +972,9 @@
         "title": "Senior Designer",
         "datePosted": "2016-01-05"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Here's My Chance",
@@ -908,7 +992,9 @@
       {
         "title": "Freelance Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "I-SITE",
@@ -927,7 +1013,9 @@
         "title": "Winter Interns",
         "datePosted": "2016-01-13"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Inspire Energy",
@@ -948,7 +1036,9 @@
       {
         "title": "Web Developer - VC Backed Startup"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "InstaMed",
@@ -969,7 +1059,9 @@
       {
         "title": "Program Delivery Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "IntegriChain",
@@ -984,7 +1076,9 @@
       {
         "title": "Senior Test Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "InterNACHI",
@@ -999,7 +1093,9 @@
       {
         "title": "Senior Web Developer (PHP, MySQL, JS, HTML, CSS)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Intuitive Company",
@@ -1017,7 +1113,9 @@
       {
         "title": "Program Delivery Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "IT Pros - Philadelphia",
@@ -1032,7 +1130,9 @@
       {
         "title": ".NET Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Kepler Group",
@@ -1043,7 +1143,9 @@
       "latitude": 39.952584,
       "longitude": -75.165222
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Lamps.com Inc",
@@ -1064,7 +1166,9 @@
       {
         "title": "Product Data Specialist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Leadnomics",
@@ -1082,7 +1186,9 @@
       {
         "title": "Software Engineer (node.js, java, php, aws)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "LevelUp",
@@ -1106,7 +1212,9 @@
       {
         "title": "Sr Android Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "M",
@@ -1117,7 +1225,9 @@
       "latitude": 39.9507636529,
       "longitude": -75.1444120428
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "MaassMedia, LLC",
@@ -1135,7 +1245,9 @@
       {
         "title": "Consultant - Data Science/Reporting"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Masterminds",
@@ -1159,7 +1271,9 @@
       {
         "title": "Media Internship"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "MentorTech Ventures",
@@ -1186,7 +1300,9 @@
       {
         "title": "UI/UX Design – Intern/Co-Op"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Metropolitan Acoustics",
@@ -1197,7 +1313,9 @@
       "latitude": 40.0759209111,
       "longitude": -75.2081357556
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "MOD Worldwide",
@@ -1218,7 +1336,9 @@
       {
         "title": "PROOFREADER/RESEARCH"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Morgan Lewis",
@@ -1281,7 +1401,9 @@
       {
         "title": "371BR Manager - Business Operations"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Nasdaq OMX",
@@ -1299,7 +1421,9 @@
       {
         "title": "Project Manager US Equities Group"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "National Constitution Center",
@@ -1310,7 +1434,9 @@
       "latitude": 39.950063,
       "longitude": -75.149022
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Netplus",
@@ -1340,7 +1466,9 @@
       {
         "title": "Digital Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Night Kitchen Interactive",
@@ -1360,7 +1488,9 @@
         "title": "Interactive Web Developer",
         "datePosted": "2015-07-28"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Nimblelight",
@@ -1375,7 +1505,9 @@
       {
         "title": "Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "O3 World",
@@ -1402,7 +1534,9 @@
       {
         "title": "WEB PROGRAMMER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Oncora Medical",
@@ -1426,7 +1560,9 @@
       {
         "title": "UX and Data Visualization Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "PCS Trac",
@@ -1437,7 +1573,9 @@
       "latitude": 40.0149365556,
       "longitude": -75.1698068384
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "PeopleLinx",
@@ -1458,7 +1596,9 @@
       {
         "title": "Account Executive"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "PerPay Inc",
@@ -1473,7 +1613,9 @@
       {
         "title": "Engineers"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Philadelphia Convention & Visitors Bureau PHLCVB",
@@ -1488,7 +1630,9 @@
       {
         "title": "Marketing Specialist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Philadelphia Media Network",
@@ -1539,7 +1683,9 @@
       {
         "title": "Senior Market Research Analyst (Digital)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Picwell Inc",
@@ -1560,7 +1706,9 @@
       {
         "title": "Data Scientist (Production)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "PromptWorks",
@@ -1581,7 +1729,9 @@
       {
         "title": "Senior Front-end Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Pulsar Informatics",
@@ -1596,7 +1746,9 @@
       {
         "title": "Senior Software Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "P'unk Avenue",
@@ -1614,7 +1766,9 @@
       {
         "title": "Full Stack Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Push10 Design",
@@ -1625,7 +1779,9 @@
       "latitude": 39.9528668,
       "longitude": -75.1450802
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Razorfish Health",
@@ -1636,7 +1792,9 @@
       "latitude": 39.94491,
       "longitude": -75.159786
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Red Tettemer O'Connell + Partners",
@@ -1660,7 +1818,9 @@
       {
         "title": "WEB DEV INTERN"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Revzilla",
@@ -1696,7 +1856,9 @@
       {
         "title": "Web Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "RightAction",
@@ -1714,7 +1876,9 @@
       {
         "title": "Software Engineer, Java + Ruby"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "RJMetrics",
@@ -1738,7 +1902,9 @@
       {
         "title": "Senior Web Applications Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "SEER Interactive",
@@ -1780,7 +1946,9 @@
       {
         "title": "SEO Associate"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Sidecar",
@@ -1825,7 +1993,9 @@
       {
         "title": "Content Marketing Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "SnipSnap",
@@ -1840,7 +2010,9 @@
       {
         "title": "Product Designer (Android)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "SpectiCast",
@@ -1851,7 +2023,9 @@
       "latitude": 39.9500479286,
       "longitude": -75.1728245
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Stuzo",
@@ -1866,7 +2040,9 @@
       {
         "title": "Technical Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "SunGuard Financial",
@@ -1887,7 +2063,9 @@
       {
         "title": "Ruby on Rails Web Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Technically Media",
@@ -1898,7 +2076,9 @@
       "latitude": 39.9531008333,
       "longitude": -75.2038928333
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "The Wilson Concept",
@@ -1909,7 +2089,9 @@
       "latitude": 39.950196,
       "longitude": -75.161868
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Think Brownstone",
@@ -1939,7 +2121,9 @@
       {
         "title": "Web Developer (Contract)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Thomson Reuters",
@@ -1960,7 +2144,9 @@
       {
         "title": "Technology Consultant"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Thoughtbot",
@@ -1975,7 +2161,9 @@
       {
         "title": "Development Director, Mobile"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Ticketleap",
@@ -1990,7 +2178,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Tuva Labs Inc",
@@ -2001,7 +2191,9 @@
       "latitude": 39.952584,
       "longitude": -75.165222
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "University of Pennsylvania Human Resources Department",
@@ -2012,7 +2204,9 @@
       "latitude": 39.955912,
       "longitude": -75.195443
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "URBN",
@@ -2063,7 +2257,9 @@
       {
         "title": "Data Scientist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Velora Studios",
@@ -2084,7 +2280,9 @@
       {
         "title": "Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Vistar Media",
@@ -2099,7 +2297,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "WebLinc Corp.",
@@ -2132,7 +2332,9 @@
       {
         "title": "Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Wildbit",
@@ -2147,7 +2349,9 @@
       {
         "title": "Quality Assurance Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Willis Towers Watson",
@@ -2162,7 +2366,9 @@
       {
         "title": "Software Developer (.NET)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "YIKES Inc",
@@ -2173,7 +2379,9 @@
       "latitude": 39.968964,
       "longitude": -75.133331
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Zivtech",
@@ -2188,7 +2396,9 @@
       {
         "title": "Drupal Developers and Themers"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Zoomer",
@@ -2203,6 +2413,8 @@
       {
         "title": "Backend Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   }
 ]

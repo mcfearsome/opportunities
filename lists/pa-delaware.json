@@ -12,7 +12,9 @@
       {
         "title": "Jr. Web Application Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "delaware"
   },
   {
     "company": "Compliance Implementation Services",
@@ -63,7 +65,9 @@
       {
         "title": "Sr. IT System Administrator"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "delaware"
   },
   {
     "company": "Philly Marketing Labs",
@@ -84,7 +88,9 @@
       {
         "title": "Paid Search Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "delaware"
   },
   {
     "company": "Wilson Legal Solutions Inc",
@@ -99,6 +105,8 @@
       {
         "title": ".Net Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "delaware"
   }
 ]

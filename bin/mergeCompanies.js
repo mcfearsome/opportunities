@@ -13,7 +13,7 @@ if (fileName && dirName) {
   lists.push({label: 'All Companies', state: 'all', county: 'all', fileName: 'lists/all-counties.json'});
   // Make a directory for county json to live in
   fs.mkdir('lists', (err) => { /* Do Nothing */ });
-
+  var all_companies = [];
   counties.forEach(processCounty);
 
   mergeAll(dirName);
@@ -29,18 +29,24 @@ if (fileName && dirName) {
         return;
       }
 
-      files = files.filter(isJsonFile);
-      files.sort(caseInsensitiveSort);
-      files.forEach(addCompany);
-
-      function addCompany(fileName) {
-        var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-        var company = JSON.parse(text);
-
-        companies.push(company);
-      }
-
-      writeCompanyMerge('lists/all-companies.json', companies);
+      // files = files.filter(isJsonFile);
+      // files.sort(caseInsensitiveSort);
+      // files.forEach(addCompany);
+      //
+      // function addCompany(fileName) {
+      //   var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
+      //   var company = JSON.parse(text);
+      //
+      //   companies.push(company);
+      // }
+      all_companies.sort(function(a, b) {
+        if (a.company > b.company) {
+          return 1;
+        } else {
+          return -1;
+        }
+      });
+      writeCompanyMerge('lists/all-companies.json', all_companies);
       writeCountyIndex();
     }
   }
@@ -79,10 +85,13 @@ if (fileName && dirName) {
       function checkCompany(fileName) {
         var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
         var company = JSON.parse(text);
-
+        company.state = county.properties.State.toLowerCase();
+        company.county = county.properties.Co_Name.toLowerCase();
         if ('geo' in company) {
           if (isPointInRegion(countyLimits, company.geo)) {
+            all_companies.push(company);
             insideCounty.push(company);
+
           }
         }
       }

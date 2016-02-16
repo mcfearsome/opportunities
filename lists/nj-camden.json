@@ -13,7 +13,9 @@
       {
         "title": "Technical Support Representative"
       }
-    ]
+    ],
+    "state": "nj",
+    "county": "camden"
   },
   {
     "company": "Linode, LLC",
@@ -46,6 +48,8 @@
       {
         "title": "Security Engineer"
       }
-    ]
+    ],
+    "state": "nj",
+    "county": "camden"
   }
 ]

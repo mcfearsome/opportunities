@@ -9,7 +9,9 @@
       "latitude": 40.222927,
       "longitude": -74.905772
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "AWeber Communications",
@@ -45,7 +47,9 @@
       {
         "title": "Technical Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "BOLT ON TECHNOLOGY",
@@ -63,7 +67,9 @@
       {
         "title": "Microsoft Software Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "BrickSimple LLC",
@@ -81,7 +87,9 @@
       {
         "title": "Mobile Application Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "Garfield Group",
@@ -108,7 +116,9 @@
       {
         "title": "Graphic Design Intern"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "Inverse Paradox",
@@ -126,7 +136,9 @@
       {
         "title": "WordPress Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "MeetMe",
@@ -162,7 +174,9 @@
       {
         "title": "Website Content Review & Customer Support Specialist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "Pedrera Philadelphia Web Development",
@@ -177,7 +191,9 @@
       {
         "title": "Web Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   },
   {
     "company": "Tonic Design Co",
@@ -201,6 +217,8 @@
       {
         "title": "Senior User Experience Designer (UX)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "bucks"
   }
 ]

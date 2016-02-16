@@ -8,7 +8,9 @@
       "latitude": 40.092432,
       "longitude": -75.41177
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Alura Business Solutions",
@@ -23,7 +25,9 @@
       {
         "title": "Network Administrator"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "AppNexus Inc",
@@ -38,7 +42,9 @@
       {
         "title": "Senior Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "ApprenNet",
@@ -53,7 +59,9 @@
       {
         "title": "Director of Corporate Sales"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Arc Intermedia",
@@ -83,7 +91,9 @@
       {
         "title": "Umbraco ASP.NET Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Aspect Consulting",
@@ -101,7 +111,9 @@
       {
         "title": "System Administrator, SME"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Brio Solutions",
@@ -116,7 +128,9 @@
       {
         "title": ".NET Software Developers (All Levels)"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "BTB Security",
@@ -131,7 +145,9 @@
       {
         "title": "RADAR Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "CardConnect",
@@ -170,7 +186,9 @@
       {
         "title": "Customer Service Representative"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Chariot Solutions",
@@ -191,7 +209,9 @@
       {
         "title": "Mobile Developers"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Clinical Ink",
@@ -209,7 +229,9 @@
       {
         "title": ".NET/SQL Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Clutch",
@@ -227,7 +249,9 @@
       {
         "title": "PRODUCT MANAGER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "CoreDial",
@@ -296,7 +320,9 @@
       {
         "title": "Software Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Curotec",
@@ -321,7 +347,9 @@
       {
         "title": "UI Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Eastern Standard",
@@ -339,7 +367,9 @@
       {
         "title": "DEVELOPER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "eMoney Advisor",
@@ -378,7 +408,9 @@
       {
         "title": "Staff Accountant"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "_comment": "Seems to be EPAM Systems now. Already have a file for them.",
@@ -397,7 +429,9 @@
       {
         "title": "Senior UX Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "EPAM",
@@ -415,7 +449,9 @@
       {
         "title": "Senior Visual Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Fynydd",
@@ -430,7 +466,9 @@
       {
         "title": "Senior Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "GLOBO",
@@ -448,7 +486,9 @@
       {
         "title": "Quality Assurance Coordinator: Bilingual English-Spanish"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Halfpenny Technologies",
@@ -466,7 +506,9 @@
       {
         "title": "Quality Assurance (QA) Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "J2 Solutions",
@@ -484,7 +526,9 @@
       {
         "title": "Application Developers - Java"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "KPInterface, Inc.",
@@ -505,7 +549,9 @@
       {
         "title": "Computer Tech Support Internship"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "LeadiD",
@@ -523,7 +569,9 @@
       {
         "title": "Senior Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Monetate, Inc.",
@@ -553,7 +601,9 @@
       {
         "title": "Product Owner"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Municibid",
@@ -564,7 +614,9 @@
       "latitude": 40.085953,
       "longitude": -75.115217
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Offshorent",
@@ -585,7 +637,9 @@
       {
         "title": "Senior Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Plan Management Corp.",
@@ -596,7 +650,9 @@
       "latitude": 40.0086664118,
       "longitude": -75.2925611765
     },
-    "positions": []
+    "positions": [],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Plum Analytics",
@@ -617,7 +673,9 @@
       {
         "title": "Mid-level Java Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Relay",
@@ -650,7 +708,9 @@
       {
         "title": "SR. SALES EXECUTIVE"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "roundCorner",
@@ -671,7 +731,9 @@
       {
         "title": "Senior Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Saturn Infotech Inc",
@@ -692,7 +754,9 @@
       {
         "title": "Fresh Graduates - Systems Analyst / Programmer Analyst"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Susquehanna International Group",
@@ -794,7 +858,9 @@
       {
         "title": "Quantitative Developer - Backtesting and Research Computing "
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "TherapyNotes",
@@ -815,7 +881,9 @@
       {
         "title": "Software Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Transmogrify",
@@ -836,7 +904,9 @@
       {
         "title": "User Interface / Visual Designer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Veris Associates, Inc., dba VerisVisalign",
@@ -863,7 +933,9 @@
       {
         "title": "APPLICATION PACKAGER"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Wingspan Technology",
@@ -884,7 +956,9 @@
       {
         "title": "DevOps Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "WizeHive",
@@ -902,7 +976,9 @@
       {
         "title": "Jr. Implementation Specialist"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "Zuppler",
@@ -917,6 +993,8 @@
       {
         "title": "Operations Project Manager"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   }
 ]
