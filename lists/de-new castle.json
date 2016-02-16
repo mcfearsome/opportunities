@@ -24,7 +24,9 @@
       {
         "title": "Mid-Level UX Designer"
       }
-    ]
+    ],
+    "state": "de",
+    "county": "new castle"
   },
   {
     "company": "Swift Capital",
@@ -45,6 +47,8 @@
       {
         "title": "Senior C#.Net Software Development Engineer "
       }
-    ]
+    ],
+    "state": "de",
+    "county": "new castle"
   }
 ]
