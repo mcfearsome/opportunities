@@ -85,6 +85,8 @@ nav.navbar {
   background-color: #e7e7e7;
 }
 .card {
+  float: none;
+  position: static;
   padding: 0;
 }
 .card .card-header {
@@ -98,6 +100,7 @@ nav.navbar {
   border-radius: 0;
 }
 .card .card-block .list-group-item {
+  position: static;
   border-left: 0;
   border-top: 1px solid #ddd;
   border-right: 0;
