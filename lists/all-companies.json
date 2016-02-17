@@ -540,7 +540,9 @@
       {
         "title": "Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Biomeme, Inc.",
@@ -719,7 +721,9 @@
       {
         "title": "Creative Director"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "montgomery"
   },
   {
     "company": "BrickSimple LLC",
@@ -1643,7 +1647,9 @@
       {
         "title": "Front End Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Fynydd",
@@ -1882,7 +1888,9 @@
       {
         "title": "Operations Engineer / DevOps"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Here's My Chance",
@@ -2078,12 +2086,9 @@
       {
         "title": "Application Developers - Java"
       }
-<<<<<<< HEAD:lists/all-companies.json
     ],
     "state": "pa",
     "county": "montgomery"
-=======
-    ]
   },
   {
     "company": "Jefferson",
@@ -2149,43 +2154,9 @@
       {
         "title": "Director of IS&T Security & Enterprise Security Officer - 9205586"
       }
-    ]
-  },
-  {
-    "company": "Kepler Group",
-    "url": "http://www.keplergrp.com/careers/",
-    "webSiteUrl": "http://www.keplergrp.com/",
-    "address": "Philadelphia, PA",
-    "geo": {
-      "latitude": 39.952584,
-      "longitude": -75.165222
-    },
-    "positions": []
-  },
-  {
-    "company": "KickUp",
-    "type": [
-      "Startup"
     ],
-    "url": "https://angel.co/kickup-1/jobs",
-    "webSiteUrl": "http://kickup.co/",
-    "address": "Philadelphia, PA",
-    "geo": {
-      "latitude": 40.07231,
-      "longitude": -75.203371
-    },
-    "positions": [
-      {
-        "title": "Data visualization intern"
-      },
-      {
-        "title": "Front-end engineer"
-      },
-      {
-        "title": "Full-stack developer"
-      }
-    ]
->>>>>>> mcelaney/master:all-companies.json
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "KPInterface, Inc.",
@@ -2220,6 +2191,32 @@
       "longitude": -75.165222
     },
     "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "KickUp",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/kickup-1/jobs",
+    "webSiteUrl": "http://kickup.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Data visualization intern"
+      },
+      {
+        "title": "Front-end engineer"
+      },
+      {
+        "title": "Full-stack developer"
+      }
+    ],
     "state": "pa",
     "county": "philadelphia"
   },
@@ -2302,7 +2299,9 @@
       {
         "title": "UX Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "LevelUp",
@@ -2707,7 +2706,9 @@
       {
         "title": "Senior Mobile Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Municibid",
@@ -2721,6 +2722,26 @@
     "positions": [],
     "state": "pa",
     "county": "montgomery"
+  },
+  {
+    "company": "My Mobile ED",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/my-mobile-ed/jobs",
+    "webSiteUrl": "http://mymobileed.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "NRG Edge, LLC",
@@ -2744,24 +2765,6 @@
     ],
     "state": "pa",
     "county": "chester"
-  },
-  {
-    "company": "My Mobile ED",
-    "type": [
-      "Startup"
-    ],
-    "url": "https://angel.co/my-mobile-ed/jobs",
-    "webSiteUrl": "http://mymobileed.com/",
-    "address": "Philadelphia, PA",
-    "geo": {
-      "latitude": 40.07231,
-      "longitude": -75.203371
-    },
-    "positions": [
-      {
-        "title": "Software Engineer"
-      }
-    ]
   },
   {
     "company": "Nasdaq OMX",
@@ -2844,7 +2847,9 @@
       {
         "title": "Web Development Instructor"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Night Kitchen Interactive",
@@ -3406,7 +3411,9 @@
       {
         "title": "Front-End Intern"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Relay",
@@ -3883,7 +3890,9 @@
       {
         "title": "Customer Solutions Software Engineer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Technically Media",
@@ -4039,7 +4048,9 @@
       {
         "title": "Web Developer"
       }
-    ]
+    ],
+    "state": "pa",
+    "county": "philadelphia"
   },
   {
     "company": "Tonic Design Co",
