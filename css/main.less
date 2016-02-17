@@ -1,3 +1,4 @@
+// TODO: Refactor and consolidate
 @font-face {
   font-family: 'Ansley';
   src: url('fonts/Ansley Display-Light.ttf');
@@ -92,6 +93,8 @@ nav.navbar {
   }
 }
 .card {
+  float: none;
+  position: static;
   padding: 0;
   .card-header {
     padding-bottom: 0;
@@ -103,7 +106,7 @@ nav.navbar {
       border-radius: 0;
     }
     .list-group-item {
-
+      position: static;
       border-left: 0;
       border-top: 1px solid #ddd;
       border-right: 0;
