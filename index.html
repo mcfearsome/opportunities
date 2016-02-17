@@ -1,19 +1,21 @@
 <!DOCTYPE HTML>
 <html ng-app="opportunitiesApp" ng-cloak>
   <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Opportunities</title>
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
   </head>
   <body ng-controller="appController">
-    <nav class="navbar navbar-light bg-faded navbar-fixed-top">
-      <div class="container-fluid">
-        <header class="navbar-header">
+    <nav class="navbar bg-faded navbar-fixed-top">
+      <div class="container">
+
+        <header class="navbar-header col-sm-3 col-xs-12">
           <a class="navbar-brand" href="#">Philly Dev Jobs</a>
         </header>
+        <div class="col-sm-4 col-xs-12">
         <ul class="nav navbar-nav">
           <li ng-repeat="state in states"
               class="nav-item"
@@ -38,14 +40,15 @@
               </ul>
           </li>
         </ul>
-        <form class="form-inline pull-xs-right">
+        </div>
+        <form class="form-inline pull-sm-right col-xs-12 col-sm-4">
             <input class="form-control" ng-model="search" type="text" placeholder="Search">
         </form>
       </div><!-- /.container-fluid -->
     </nav>
 
     <div id="content" class="container">
-      <section class="card"
+      <section class="card col-xs-12"
                ng-repeat="listing in listings | filter : search"
                ng-show="listing.positions != ''">
         <header class="card-header">
@@ -66,5 +69,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
   </body>
 </html>

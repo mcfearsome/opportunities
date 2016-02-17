@@ -2,31 +2,43 @@ body {
   background-color: #707070;
 }
 
-h1 {
-  text-align: center;
-}
-
-.container {
+#content {
   margin-top: 80px;
 }
-.navbar-form {
-  padding: 5px 15px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+@media (max-width: 543px) {
+  nav.navbar {
+    position: static;
+    padding-left: 0;
+    padding-right: 0;
+    .col-xs-12 {
+      padding: 0;
+    }
+  }
+  #content {
+    margin-top: 10px;
+    padding: 0;
+  }
 }
-input {
-  margin-right: 25px;
-  margin-top: 5px;
+.form-inline {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  input {
+    margin-right: 0;
+    margin-top: 5px;
+  }
+
+  input[type="text"] {
+    width: 100%;
+    border: 1px solid #707070;
+  }
 }
 
-input[type="text"] {
-  border: 1px solid #707070;
-}
 
 .navbar-header {
-  float: left;
+  padding: 0;
   .navbar-brand {
-    margin-right: 2rem;
+    color: rgb(0,0,0,.6);
   }
 }
 .dropdown:hover {
@@ -41,6 +53,7 @@ input[type="text"] {
   }
 }
 .card {
+  padding: 0;
   .card-header {
     padding-bottom: 0;
   }
