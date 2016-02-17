@@ -3,7 +3,13 @@
     "label": "All Companies",
     "state": "all",
     "county": "all",
-    "fileName": "lists/all-counties.json"
+    "fileName": "lists/all-companies.json"
+  },
+  {
+    "label": "atlantic",
+    "state": "nj",
+    "county": "atlantic",
+    "fileName": "lists/nj-atlantic.json"
   },
   {
     "label": "bucks",
