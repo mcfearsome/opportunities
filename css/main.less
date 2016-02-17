@@ -10,6 +10,16 @@ body {
 #content {
   margin-top: 80px;
 }
+.md-form-container {
+  top: 0;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  width: 100%;
+  z-index: 99;
+  form {
+    width: 100%;
+  }
+}
 @media (max-width: 543px) {
   nav.navbar {
     position: static;
@@ -17,6 +27,9 @@ body {
     padding-right: 0;
     .col-xs-12 {
       padding: 0;
+    }
+    .form-inline {
+      position: sticky;
     }
   }
   #content {
@@ -29,13 +42,17 @@ body {
     opacity: .98;
   }
 }
-@media (min-width: 543px) and (max-width: 992px) {
+@media (min-width: 543px) and (max-width: 991px) {
+  nav.navbar {
+    position: static;
+  }
   #content {
-    margin-top: 160px;
+    margin-top: 10px;
   }
 }
 .form-inline {
   padding: 0;
+  padding-bottom: .5rem;
   margin-top: 0;
   margin-bottom: 0;
   input {
@@ -48,7 +65,9 @@ body {
     border: 1px solid #707070;
   }
 }
-
+nav.navbar {
+  padding-bottom: 0;
+}
 
 .navbar-header {
   padding: 0;
