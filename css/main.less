@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Ansley';
+  src: url('fonts/Ansley Display-Light.ttf');
+}
+
 body {
   background-color: #707070;
 }
@@ -19,6 +24,11 @@ body {
     padding: 0;
   }
 }
+@media (min-width: 544px) {
+  nav.navbar {
+    opacity: .98;
+  }
+}
 .form-inline {
   padding: 0;
   margin-top: 0;
@@ -37,8 +47,13 @@ body {
 
 .navbar-header {
   padding: 0;
+  h1 {
+    line-height: 2;
+    font-size: 2rem;
+    font-family: "Ansley", "Helvetica Neue",Helvetica,Arial,sans-serif;
+  }
   .navbar-brand {
-    color: rgb(0,0,0,.6);
+    color: #707070;
   }
 }
 .dropdown:hover {
