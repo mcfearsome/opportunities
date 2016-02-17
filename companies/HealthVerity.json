@@ -1,0 +1,24 @@
+{
+  "company": "HealthVerity",
+  "url": "http://healthverity.com/careers-2",
+  "webSiteUrl": "http://healthverity.com/",
+  "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+  "geo": {
+    "latitude": 39.95591,
+    "longitude": -75.17309
+  },
+  "positions": [
+    {
+      "title": "GIS Developer"
+    },
+    {
+      "title": "Back End Software Developer"
+    },
+    {
+      "title": "Front End Software Developer"
+    },
+    {
+      "title": "Operations Engineer / DevOps"
+    }
+  ]
+}

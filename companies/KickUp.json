@@ -1,11 +1,14 @@
 {
   "company": "KickUp",
-  "url": "",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/kickup-1/jobs",
   "webSiteUrl": "http://kickup.co/",
-  "address": "1133 15th St. Northwest, Washington, D.C. 20005",
+  "address": "Philadelphia, PA",
   "geo": {
-    "latitude": 38.904864,
-    "longitude": -77.033996
+    "latitude": 40.07231,
+    "longitude": -75.203371
   },
   "positions": [
     {

@@ -1,0 +1,18 @@
+{
+  "company": "New York Code + Design Academy",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/new-york-code-design-academy-1/jobs",
+  "webSiteUrl": "https://nycda.com/",
+  "address": "30 South 17th Street, Philadelphia, PA 19103",
+  "geo": {
+    "latitude": 39.952215,
+    "longitude": -75.169528
+  },
+  "positions": [
+    {
+      "title": "Web Development Instructor"
+    }
+  ]
+}

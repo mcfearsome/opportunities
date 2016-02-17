@@ -10,8 +10,8 @@ if (fileName && dirName) {
   // Keep track of what counties get written
   var lists = [];
   // Add 'All Counties' first
-  lists.push({label: 'All Companies', state: 'all', county: 'all', fileName: 'lists/all-counties.json'});
-  // Make a directory for county json to live in
+  lists.push({label: 'All Companies', state: 'all', county: 'all', fileName: 'lists/all-companies.json'});
+  // Make a directory for json to live in
   fs.mkdir('lists', (err) => { /* Do Nothing */ });
   var all_companies = [];
   counties.forEach(processCounty);

@@ -1,0 +1,21 @@
+{
+  "company": "RegDesk",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/regdesk/jobs",
+  "webSiteUrl": "http://www.regdesk.co/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Developer"
+    },
+    {
+      "title": "Front-End Intern"
+    }
+  ]
+}

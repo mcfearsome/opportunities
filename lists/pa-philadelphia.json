@@ -268,6 +268,26 @@
     "county": "philadelphia"
   },
   {
+    "company": "BioBots",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/biobots/jobs",
+    "webSiteUrl": "https://www.biobots.io/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "Biomeme, Inc.",
     "url": "http://www.biomeme.com/careers",
     "webSiteUrl": "http://www.biomeme.com/",
@@ -476,6 +496,9 @@
   },
   {
     "company": "Club OS",
+    "type": [
+      "Startup"
+    ],
     "url": "https://angel.co/club-os/jobs",
     "webSiteUrl": "https://www.club-os.com/",
     "address": "1650 Arch St, #1906, Philadelphia, PA 19103",
@@ -866,6 +889,26 @@
     "county": "philadelphia"
   },
   {
+    "company": "FastFig",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/fastfig/jobs",
+    "webSiteUrl": "https://www.fastfig.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Front End Developer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "GatherDocs",
     "url": "http://jobs.gatherdocs.com/",
     "webSiteUrl": "http://gatherdocs.com/",
@@ -971,6 +1014,32 @@
       {
         "title": "Senior Designer",
         "datePosted": "2016-01-05"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "HealthVerity",
+    "url": "http://healthverity.com/careers-2",
+    "webSiteUrl": "http://healthverity.com/",
+    "address": "100 North 20th Street, Suite 203, Philadelphia, PA  19103",
+    "geo": {
+      "latitude": 39.95591,
+      "longitude": -75.17309
+    },
+    "positions": [
+      {
+        "title": "GIS Developer"
+      },
+      {
+        "title": "Back End Software Developer"
+      },
+      {
+        "title": "Front End Software Developer"
+      },
+      {
+        "title": "Operations Engineer / DevOps"
       }
     ],
     "state": "pa",
@@ -1135,6 +1204,74 @@
     "county": "philadelphia"
   },
   {
+    "company": "Jefferson",
+    "url": "http://www.jefferson.edu/human-resources/careers.html",
+    "webSiteUrl": "http://www.jefferson.edu/",
+    "address": "1025 Walnut Street, Philadelphia, PA 19107",
+    "geo": {
+      "latitude": 39.948784,
+      "longitude": -75.158186
+    },
+    "positions": [
+      {
+        "title": "Application Development Specialist - IS&T - V69 - 9207191"
+      },
+      {
+        "title": "Multimedia Instructional Designer - IS&T - V67 - 9207192"
+      },
+      {
+        "title": "Data Scientist - IS&T - V70 - 9207105"
+      },
+      {
+        "title": "Security Analyst II - IS&T - V67 - 9207104"
+      },
+      {
+        "title": "Senior Voice Communications Technician - V66 - 9207102"
+      },
+      {
+        "title": "Lead Client Solutions Analyst - 9205587"
+      },
+      {
+        "title": "Windows System Administrator - V68 - 9206962"
+      },
+      {
+        "title": "Domain Architect - 9205737"
+      },
+      {
+        "title": "Security Analyst II - IS&T - 9204646"
+      },
+      {
+        "title": "Application Development Specialist - IS&T - 9205225"
+      },
+      {
+        "title": "Oracle Database Administrator - 9204645"
+      },
+      {
+        "title": "Sr. Storage Administrator - 9204643"
+      },
+      {
+        "title": "End-Point System Administrator (V67) - 9206277"
+      },
+      {
+        "title": "Virtualization Administrator (V68) - IS&T - 9206155"
+      },
+      {
+        "title": "IT Infrastructure Project Manager (V70) - 9206157"
+      },
+      {
+        "title": "Senior Apple Systems Administrator (V68) - 9206161"
+      },
+      {
+        "title": "Web Developer - 9206162"
+      },
+      {
+        "title": "Director of IS&T Security & Enterprise Security Officer - 9205586"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "Kepler Group",
     "url": "http://www.keplergrp.com/careers/",
     "webSiteUrl": "http://www.keplergrp.com/",
@@ -1144,6 +1281,32 @@
       "longitude": -75.165222
     },
     "positions": [],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "KickUp",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/kickup-1/jobs",
+    "webSiteUrl": "http://kickup.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Data visualization intern"
+      },
+      {
+        "title": "Front-end engineer"
+      },
+      {
+        "title": "Full-stack developer"
+      }
+    ],
     "state": "pa",
     "county": "philadelphia"
   },
@@ -1185,6 +1348,26 @@
       },
       {
         "title": "Software Engineer (node.js, java, php, aws)"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "Lemma",
+    "url": "https://www.lem.ma/home/?page_id=70",
+    "webSiteUrl": "https://www.lem.ma/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full stack Angular.js, Node.js developer"
+      },
+      {
+        "title": "UX Developer"
       }
     ],
     "state": "pa",
@@ -1406,6 +1589,61 @@
     "county": "philadelphia"
   },
   {
+    "company": "Moven",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/moven/jobs",
+    "webSiteUrl": "https://www.moven.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Full Stack Engineer"
+      },
+      {
+        "title": "Service Delivery Engineer"
+      },
+      {
+        "title": "Senior UX Designer"
+      },
+      {
+        "title": "Data Scientist"
+      },
+      {
+        "title": "Data Analyst"
+      },
+      {
+        "title": "Senior Mobile Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "My Mobile ED",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/my-mobile-ed/jobs",
+    "webSiteUrl": "http://mymobileed.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Software Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "Nasdaq OMX",
     "url": "https://careersus-nasdaq.icims.com/jobs/search?ss=1&searchLocation=12781-12822-philadelphia",
     "webSiteUrl": "http://business.nasdaq.com/",
@@ -1465,6 +1703,26 @@
       },
       {
         "title": "Digital Project Manager"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "New York Code + Design Academy",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/new-york-code-design-academy-1/jobs",
+    "webSiteUrl": "https://nycda.com/",
+    "address": "30 South 17th Street, Philadelphia, PA 19103",
+    "geo": {
+      "latitude": 39.952215,
+      "longitude": -75.169528
+    },
+    "positions": [
+      {
+        "title": "Web Development Instructor"
       }
     ],
     "state": "pa",
@@ -1823,6 +2081,29 @@
     "county": "philadelphia"
   },
   {
+    "company": "RegDesk",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/regdesk/jobs",
+    "webSiteUrl": "http://www.regdesk.co/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Developer"
+      },
+      {
+        "title": "Front-End Intern"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "Revzilla",
     "url": "http://www.revzilla.com/careers",
     "webSiteUrl": "http://www.revzilla.com/",
@@ -2068,6 +2349,23 @@
     "county": "philadelphia"
   },
   {
+    "company": "Syapse",
+    "url": "http://www.syapse.com/about/careers/",
+    "webSiteUrl": "http://www.syapse.com/",
+    "address": "Philadelphia, PA",
+    "geo": {
+      "latitude": 40.07231,
+      "longitude": -75.203371
+    },
+    "positions": [
+      {
+        "title": "Customer Solutions Software Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
     "company": "Technically Media",
     "url": "http://technicallymedia.com/careers",
     "webSiteUrl": "http://technicallymedia.com/",
@@ -2177,6 +2475,26 @@
     "positions": [
       {
         "title": "Software Engineer"
+      }
+    ],
+    "state": "pa",
+    "county": "philadelphia"
+  },
+  {
+    "company": "Tivipley",
+    "type": [
+      "Startup"
+    ],
+    "url": "https://angel.co/tivipley/jobs",
+    "webSiteUrl": "http://www.tivipley.com/",
+    "address": "2600 w. Legiht Ave., Philadelphia, PA 19100",
+    "geo": {
+      "latitude": 39.996284,
+      "longitude": -75.174103
+    },
+    "positions": [
+      {
+        "title": "Web Developer"
       }
     ],
     "state": "pa",

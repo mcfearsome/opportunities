@@ -1,0 +1,18 @@
+{
+  "company": "Lemma",
+  "url": "https://www.lem.ma/home/?page_id=70",
+  "webSiteUrl": "https://www.lem.ma/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Full stack Angular.js, Node.js developer"
+    },
+    {
+      "title": "UX Developer"
+    }
+  ]
+}
