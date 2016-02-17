@@ -2,21 +2,24 @@
 <html ng-app="opportunitiesApp" ng-cloak>
   <head>
     <title>Opportunities</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
     <link rel="stylesheet" href="css/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
     <script type="text/javascript" src="js/app.js"></script>
   </head>
   <body ng-controller="appController">
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-light bg-faded navbar-fixed-top">
       <div class="container-fluid">
         <header class="navbar-header">
           <a class="navbar-brand" href="#">Philly Dev Jobs</a>
         </header>
         <ul class="nav navbar-nav">
           <li ng-repeat="state in states"
+              class="nav-item"
               ng-class="{ dropdown: (counties[state] && counties[state].length > 2), active: (state == nav_active_state) }">
               <a href="#"
+                  class="nav-link"
                   ng-class="{'dropdown-toggle': (counties[state] && counties[state].length > 2)}"
                   data-toggle="{{(counties[state] && counties[state].length > 2) ? 'dropdown':''}}"
                   role="{{(counties[state] && counties[state].length > 2) ? 'button':''}}"
@@ -28,36 +31,39 @@
               </a>
               <ul class="dropdown-menu" ng-if="(counties[state] && counties[state].length > 2)">
                 <li ng-repeat="county in counties[state]"
+                    class="dropdown-item"
                     ng-class="{active: (state == nav_active_state && county == nav_active_county)}">
-                    <a href="#" ng-click="navClick(state, county)">{{county}}</a>
+                    <a href="#" class="nav-link" ng-click="navClick(state, county)">{{county}}</a>
                 </li>
               </ul>
           </li>
         </ul>
-        <form class="navbar-form navbar-right" role="search">
-      	  <div class="form-group">
-      	      <input type="text" ng-model="search" class="form-control" placeholder="Search">
-      	  </div>
+        <form class="form-inline pull-xs-right">
+            <input class="form-control" ng-model="search" type="text" placeholder="Search">
         </form>
       </div><!-- /.container-fluid -->
     </nav>
 
     <div id="content" class="container">
-      <br/>
-      <div ng-repeat="listing in listings | filter : search" class="panel panel-default" ng-show="listing.positions != ''">
-      	<div class="panel-heading">
-      	  <h1><a href="{{listing.url}}" target="_blank">{{listing.company}}</a></h1>
-      	  <p>{{listing.address}}</p>
-      	</div>
-      	<div class="list-group">
-      	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}" target="_blank">
-      	    {{position.title}}
-      	  </a>
-      	</div>
-      </div>
+      <section class="card"
+               ng-repeat="listing in listings | filter : search"
+               ng-show="listing.positions != ''">
+        <header class="card-header">
+          <h4><a href="{{listing.url}}" target="_blank">{{listing.company}}</a></h4>
+          <p>
+            <small>{{listing.address}}</small>
+        </header>
+        <div class="card-block">
+          <div class="list-group">
+        	  <a ng-repeat="position in listing.positions" class="list-group-item" href="{{listing.url}}" target="_blank">
+        	    {{position.title}}
+        	  </a>
+        	</div>
+        </div>
+      </section>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
   </body>
 </html>
