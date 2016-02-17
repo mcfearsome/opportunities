@@ -4,11 +4,11 @@ angular.module('opportunitiesApp', [])
   var states = [];
   var counties = {};
 
-  $http.get('/lists/all-companies.json').success(function(data) {
+  $http.get('lists/all-companies.json').success(function(data) {
     all_listings = data;
     $scope.listings = all_listings;
   });
-  $http.get('/lists/lists.json').success(function(data) {
+  $http.get('lists/lists.json').success(function(data) {
     $scope.nav_active_state = 'all';
     $scope.nav_active_county = '';
     data.forEach(function(item) {
