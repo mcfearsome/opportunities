@@ -19,10 +19,33 @@ input {
 input[type="text"] {
   border: 1px solid #707070;
 }
+.navbar-header {
+  float: left;
+}
+.navbar-header .navbar-brand {
+  margin-right: 2rem;
+}
 .dropdown:hover .dropdown-menu {
   display: block;
 }
-.dropdown-menu li.active > a {
+.dropdown-menu .dropdown-item.active,
+.dropdown-menu .active > a {
   color: #555;
   background-color: #e7e7e7;
+}
+.card .card-header {
+  padding-bottom: 0;
+}
+.card .card-block {
+  padding: 0;
+}
+.card .card-block .list-group-item:first-child {
+  border-top: 0;
+  border-radius: 0;
+}
+.card .card-block .list-group-item {
+  border-left: 0;
+  border-top: 1px solid #ddd;
+  border-right: 0;
+  border-bottom: 0;
 }

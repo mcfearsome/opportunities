@@ -29,17 +29,7 @@ if (fileName && dirName) {
         return;
       }
 
-      // files = files.filter(isJsonFile);
-      // files.sort(caseInsensitiveSort);
-      // files.forEach(addCompany);
-      //
-      // function addCompany(fileName) {
-      //   var text = fs.readFileSync(dirName + "/" + fileName, "utf8");
-      //   var company = JSON.parse(text);
-      //
-      //   companies.push(company);
-      // }
-      all_companies.sort(function(a, b) {
+    all_companies.sort(function(a, b) {
         if (a.company > b.company) {
           return 1;
         } else {
