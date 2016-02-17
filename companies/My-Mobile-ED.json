@@ -1,0 +1,18 @@
+{
+  "company": "My Mobile ED",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/my-mobile-ed/jobs",
+  "webSiteUrl": "http://mymobileed.com/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}

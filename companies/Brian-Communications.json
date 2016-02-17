@@ -1,0 +1,42 @@
+{
+  "company": "Brian Communications",
+  "url": "http://www.briancom.com/careers",
+  "webSiteUrl": "http://www.briancom.com/",
+  "address": "200 Four Falls Corporate Center, Suite 100, Conshohocken, PA 19428",
+  "geo": {
+    "latitude": 40.066641,
+    "longitude": -75.306219
+  },
+  "positions": [
+    {
+      "title": "Digital Project Manager"
+    },
+    {
+      "title": "Frontend Developer"
+    },
+    {
+      "title": "Director of Web Development"
+    },
+    {
+      "title": "Summer 2016 Intern- Strategy and Business Development"
+    },
+    {
+      "title": "Summer 2016 Creative Intern"
+    },
+    {
+      "title": "Summer 2016 Intern- Project Management"
+    },
+    {
+      "title": "Summer 2016 Intern- Integrated Marketing"
+    },
+    {
+      "title": "Summer 2016 Intern- Analytics"
+    },
+    {
+      "title": "Summer 2016 Public Relations Intern"
+    },
+    {
+      "title": "Creative Director"
+    }
+  ]
+}

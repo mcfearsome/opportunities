@@ -1,0 +1,33 @@
+{
+  "company": "Moven",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/moven/jobs",
+  "webSiteUrl": "https://www.moven.com/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Full Stack Engineer"
+    },
+    {
+      "title": "Service Delivery Engineer"
+    },
+    {
+      "title": "Senior UX Designer"
+    },
+    {
+      "title": "Data Scientist"
+    },
+    {
+      "title": "Data Analyst"
+    },
+    {
+      "title": "Senior Mobile Engineer"
+    }
+  ]
+}

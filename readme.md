@@ -55,4 +55,7 @@ For building the county files, you need to have [Node.js](https://nodejs.org/) a
 
 ### Geospacial Data
 
-The Delaware Valley Regional Planning Commission provided most of the geospatial data. You can find the original data on their [website](http://www.dvrpc.org/Mapping/data.htm). Pennsylvania Spatial Data Access provided the coordinates for Chester County. Their data set is also available on their [website](http://www.pasda.psu.edu/uci/MetadataDisplay.aspx?entry=PASDA&file=PaCounty2015_01.xml&dataset=24).
+The Delaware Valley Regional Planning Commission provided most of the geospatial data. You can find the original data on their [website](http://www.dvrpc.org/Mapping/data.htm). Additional sources of data:
+* Pennsylvania Spatial Data Access provided the coordinates for Chester County. ([data set](http://www.pasda.psu.edu/uci/MetadataDisplay.aspx?entry=PASDA&file=PaCounty2015_01.xml&dataset=24))
+* FirstMap Open Data provided the coordinates for New Castle County. ([data set](http://opendata.firstmap.delaware.gov/datasets/634f9ede21d1479c8779ab82628ebd4c_0
+))

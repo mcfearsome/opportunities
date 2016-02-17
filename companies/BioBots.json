@@ -1,0 +1,18 @@
+{
+  "company": "BioBots",
+  "type": [
+    "Startup"
+  ],
+  "url": "https://angel.co/biobots/jobs",
+  "webSiteUrl": "https://www.biobots.io/",
+  "address": "Philadelphia, PA",
+  "geo": {
+    "latitude": 40.07231,
+    "longitude": -75.203371
+  },
+  "positions": [
+    {
+      "title": "Software Engineer"
+    }
+  ]
+}
