@@ -18,7 +18,7 @@ Dir.glob("#{geojson_path}/*.geojson") do |f|
   counties.push(County.from_json(IO.read(f)))
 end
 
-# Loop over files in path and add to companies array
+# Read in company data
 Dir.glob("#{companies_path}/*.json") do |f|
   companies.push(Company.from_json(IO.read(f)))
 end
@@ -53,7 +53,7 @@ def write_array_to_file_as_json(path, arr)
   end
 end
 
-# First delete then rewrite the all-companies.json file
+# Write the all-companies.json file
 all_companies_path = "#{store_path}/all-companies.json"
 write_array_to_file_as_json(all_companies_path, companies)
 
