@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "merge": "node ./bin/mergeCompanies.js ./bin/counties2.geojson ./companies",
+    "merge_old": "node ./bin/mergeCompanies.js ./bin/counties2.geojson ./companies",
+    "merge": "ruby ./bin/merge_companies.rb ./geojson ./companies ./json",
     "format": "node ./bin/formatJSON.js ./companies"
   },
   "repository": {
