@@ -45,10 +45,10 @@ class County
 
   ##
   # Determines if a point is within the county
-  # +point+ is a Point objects where:
+  # +point+ is a Point object where:
   # x = longitude
   # y = latitude
-  
+
   def contains_point?(point)
     contains_point = false
     i = -1

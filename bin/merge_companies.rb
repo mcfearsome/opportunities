@@ -10,6 +10,7 @@ store_path = ARGV[2]
 
 counties = []
 companies = []
+
 # Create directory to store JSON
 Dir.mkdir(store_path) unless File.exists?(store_path)
 
