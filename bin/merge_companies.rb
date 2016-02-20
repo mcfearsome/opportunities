@@ -1,3 +1,4 @@
+#!/bin/ruby
 require 'json'
 require './lib/company'
 require './lib/county'
@@ -37,7 +38,6 @@ counties.each do |county|
 end
 
 def write_array_to_file_as_json(path, arr)
-  File.delete(path) if File.exists?(path)
   begin
     file = File.open(path, "w")
     file.write("[\n")
