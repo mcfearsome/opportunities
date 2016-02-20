@@ -55,4 +55,4 @@ For building the county files, you need to have [Node.js](https://nodejs.org/) a
 
 ### Geospacial Data
 
-GeoJSON data pulled from [website](https://github.com/johan/world.geo.json/)
+GeoJSON data pulled from [https://github.com/johan/world.geo.json/](https://github.com/johan/world.geo.json/)
